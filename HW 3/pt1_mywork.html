@@ -1,0 +1,93 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>My Work — Tommy Malvar</title>
+
+    <!-- Your CSS (exact) -->
+    <style>
+      .got {
+          border: solid 1px black;
+          border-collapse: collapse;
+          border-spacing: 0;
+          font: normal 13px Arial, sans-serif;
+      }
+      .got thead th {
+          background-color: #417a82;
+          border: solid 1px black;
+          color: white;
+          padding: 10px;
+          text-align: left;
+      }
+      .got tbody td {
+          border: solid 1px black;
+          color: #333;
+          padding: 10px;
+      }
+    </style>
+
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+  </head>
+
+  <body>
+    <nav>
+      <a href="HW3pt1_index.html">Home</a> |
+      <a href="HW3pt1_second_page.html">My Work</a> |
+      <a href="HW3pt1_contact.html">Contact Me</a>
+    </nav>
+
+    <h1>My Work</h1>
+
+    <p>This page will consist of all my projects, ranging from app prototypes to physical objects.</p>
+
+    <figure>
+      <img src="homemade_sampaguita.jpg" alt="Homemade Sampaguita" width="400" />
+      <p style="font-size: 12px;">This picture was taken moments after creation!</p>
+    </figure>
+
+    <p>I made this flower for a class called <i>Designing Interactive Experiences</i>. The goal for this project was to visit a landmark that I found interesting, conduct research on it, and interfere with it in some way during the visit.</p>
+
+    <p>Instead of visiting a well-known statue or building, I decided to visit a place that meant a lot to me. The now closed restaurant, Pinoy Kabayan, was the only Filipino restaurant in the Greater Boston area. After hearing about its closure, I decided to visit the place and leave this flower I made to honor its legacy.</p>
+
+    <p>Using printing and magazine paper, I glued together this flower to put on the restaurant's outside ledge. When presenting, I received many compliments from peers on the thoughtfulness that went into creating this artwork. It will remain one of my favorite projects to have worked on.</p>
+
+    <!-- Projects table using your .got styles -->
+    <h2>Projects</h2>
+    <table class="got">
+      <thead>
+        <tr>
+          <th>Project</th>
+          <th>Type</th>
+          <th>Notes</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Sampaguita Tribute</td>
+          <td>Physical / Installation</td>
+          <td>Honoring Pinoy Kabayan</td>
+        </tr>
+        <tr>
+          <td>Portfolio Site</td>
+          <td>Web / D3</td>
+          <td>Built for DS4200</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <footer>
+      <p>
+        <a href="mailto:malvarthomas@gmail.com">Email</a> •
+        <a href="https://www.linkedin.com/in/thomas-malvar/" target="_blank">LinkedIn</a> •
+        <a href="https://github.com/tmalvar/ds4200_TommyMalvar" target="_blank">GitHub</a>
+      </p>
+    </footer>
+
+    <script>
+      // Minimal visible D3 usage
+      d3.select("body").style("background-color", "#f2fff4");
+      d3.select("nav").style("margin-bottom", "12px");
+      d3.select("table.got").style("width", "100%");
+    </script>
+  </body>
+</html>
