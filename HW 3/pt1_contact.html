@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Contact Me — Tommy Malvar</title>
+
+    <!-- Your CSS (exact) -->
+    <style>
+      .got {
+          border: solid 1px black;
+          border-collapse: collapse;
+          border-spacing: 0;
+          font: normal 13px Arial, sans-serif;
+      }
+      .got thead th {
+          background-color: #417a82;
+          border: solid 1px black;
+          color: white;
+          padding: 10px;
+          text-align: left;
+      }
+      .got tbody td {
+          border: solid 1px black;
+          color: #333;
+          padding: 10px;
+      }
+    </style>
+
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+  </head>
+
+  <body>
+    <nav>
+      <a href="HW3pt1_index.html">Home</a> |
+      <a href="HW3pt1_second_page.html">My Work</a> |
+      <a href="HW3pt1_contact.html">Contact Me</a>
+    </nav>
+
+    <h1>Contact Information</h1>
+
+    <figure>
+      <img src="headshot.jpg" alt="Headshot of Tommy Malvar" width="200" />
+    </figure>
+
+    <p>Feel free to contact me with any inquiries you may have about my work!</p>
+
+    <!-- stacked links (each on its own line) -->
+    <p><a href="mailto:malvarthomas@gmail.com">Email</a></p>
+    <p><a href="https://www.linkedin.com/in/thomas-malvar/" target="_blank">LinkedIn</a></p>
+
+    <!-- Optional: contact details table using your styles -->
+    <h2>Contact Details</h2>
+    <table class="got">
+      <thead>
+        <tr>
+          <th>Method</th>
+          <th>Handle / Address</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Email</td>
+          <td>malvarthomas@gmail.com</td>
+        </tr>
+        <tr>
+          <td>LinkedIn</td>
+          <td>/in/thomas-malvar/</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <footer>
+      <p>
+        <a href="mailto:malvarthomas@gmail.com">Email</a> •
+        <a href="https://www.linkedin.com/in/thomas-malvar/" target="_blank">LinkedIn</a> •
+        <a href="https://github.com/tmalvar/ds4200_TommyMalvar" target="_blank">GitHub</a>
+      </p>
+    </footer>
+
+    <script>
+      // Minimal visible D3 usage
+      d3.select("body").style("background-color", "#f2fff4");
+      d3.select("nav").style("margin-bottom", "12px");
+      d3.selectAll("p a").style("color", "#0b0b0b"); // ensure visible against light bg
+    </script>
+  </body>
+</html>
