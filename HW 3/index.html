@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <title>Tommy Malvar's Digital Portfolio</title>
+
+    <!-- Your CSS (exact) -->
+    <style>
+      .got {
+          border: solid 1px black;
+          border-collapse: collapse;
+          border-spacing: 0;
+          font: normal 13px Arial, sans-serif;
+      }
+      .got thead th {
+          background-color: #417a82;
+          border: solid 1px black;
+          color: white;
+          padding: 10px;
+          text-align: left;
+      }
+      .got tbody td {
+          border: solid 1px black;
+          color: #333;
+          padding: 10px;
+      }
+    </style>
+
+    <!-- D3 -->
+    <script src="https://d3js.org/d3.v7.min.js"></script>
+  </head>
+
+  <body>
+    <nav>
+      <a href="HW3pt1_index.html">Home</a> |
+      <a href="HW3pt1_second_page.html">My Work</a> |
+      <a href="HW3pt1_contact.html">Contact Me</a>
+    </nav>
+
+    <h1>Welcome to Tommy Malvar's Digital Portfolio!</h1>
+
+    <p>This website is one of many that I will be making in my near future. My name is Tommy Malvar, I am 21 years old, and hail from New Wilmington, Pennsylvania.</p>
+
+    <p>I major in Data Science and Business Administration, and minor in Interaction Design. Since starting college, I grew an interest in UI / UX Design. I initially started off as purely Business Administration, and had a steady interest in advertising. After meeting more people at university and learning about their backgrounds, I realized that they are either majoring in a complex subject or are heavily involved in different activities. This realization left me feeling inclined to do more. After learning about UI / UX Design, I started a journey that has taken me to my current position.</p>
+
+    <p>I started out with Business and Design. No coding was involved, the only objective was to understand the "why" factor. I learned to investigate deeper, think beyond the barriers of traditional thought. After some time, I felt dissatisfied with what I was doing. The classes were not fulfilling. Assignments were not challenging or applicable enough to my desired career path. Once I looked into the combined program with Data Science and Business Administration, I knew immediately that this learning path would be more valuable. Although I had fearful perceptions of coding, I knew I must break through at some point.</p>
+
+    <p>Two years later, I am halfway through my course path and am truly satisfied with the choices I made. Learning the fundamentals of data analysis and applying programmatic methods to efficiently understand real-world problems brings joy to my heart every day. This new passion will hopefully become my life and lead me to new opportunities to grow — not only as an analyst but as a human being.</p>
+
+    <figure>
+      <img src="Evo_Of_Man.jpg" alt="Evolution of Man" width="600" />
+      <figcaption>Accurate Depiction of My Experience with Data Science</figcaption>
+    </figure>
+
+    <!-- Sample table using your .got styles -->
+    <h2>Quick Highlights</h2>
+    <table class="got">
+      <thead>
+        <tr>
+          <th>Area</th>
+          <th>Focus</th>
+        </tr>
+      </thead>
+      <tbody>
+        <tr>
+          <td>Design</td>
+          <td>UI/UX, Interaction Design</td>
+        </tr>
+        <tr>
+          <td>Data</td>
+          <td>Analysis, Visualization (D3)</td>
+        </tr>
+      </tbody>
+    </table>
+
+    <footer>
+      <p>
+        <a href="mailto:malvarthomas@gmail.com">Email</a> •
+        <a href="https://www.linkedin.com/in/thomas-malvar/" target="_blank">LinkedIn</a> •
+        <a href="https://github.com/tmalvar/ds4200_TommyMalvar" target="_blank">GitHub</a>
+      </p>
+    </footer>
+
+    <script>
+      // Minimal visible D3 usage
+      d3.select("body").style("background-color", "#f2fff4");  // soft light green
+      d3.select("nav").style("margin-bottom", "12px");
+      d3.selectAll("h1, h2").style("color", "#0b0b0b");
+    </script>
+  </body>
+</html>
