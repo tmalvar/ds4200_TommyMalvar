@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Repeat Offenders per Sport — Intramural Forfeits</title>
+
+  <!-- shared site styles -->
+  <link href="style.css" rel="stylesheet" />
+
+  <!-- D3 -->
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+
+  <!-- small tweaks so the chart matches the dark theme -->
+  <style>
+    #chart svg {
+      font-size: 12px;
+    }
+
+    #chart text {
+      fill: var(--text-color);
+      font-family: var(--font-body);
+    }
+
+    .bar {
+      fill: var(--accent-color);
+    }
+
+    .bar:hover {
+      opacity: 0.8;
+    }
+
+    .axis-label {
+      font-weight: bold;
+    }
+
+    .tooltip {
+      position: absolute;
+      padding: 4px 8px;
+      background: #ffffff;
+      border: 1px solid #ccc;
+      font-size: 12px;
+      pointer-events: none;
+      color: #000;
+      border-radius: 4px;
+    }
+  </style>
+</head>
+
+<body>
+  <!-- static header fallback (same pattern as index/about) -->
+  <header class="static-header">
+    <div class="brand">A Dive into the Forfeits of Northeastern Intramurals</div>
+    <nav class="nav-links">
+      <a href="index.html">Home</a>
+      <a href="sport.html">Forfeits by Sport</a>
+      <a href="location.html">Forfeits by Location</a>
+      <a href="repeat-offenders.html">Repeat Offenders</a>
+      <a href="time.html">Time Factor</a>
+      <a href="about.html">About Us</a>
+    </nav>
+  </header>
+
+  <!-- React header/theme container (same structure as other pages) -->
+  <div id="react-root"></div>
+
+  <main id="site-content">
+    <section class="module">
+      <h1>Number of Repeat Offenders per Sport</h1>
+
+      <p>
+        This visualization shows the number of repeat offenders by each sport.
+        A repeat offender is a team that forfeited more than once in a season.
+      </p>
+
+      <!-- D3 will draw the SVG in here -->
+      <div id="chart"></div>
+
+      <p>
+        The sports with the most repeat offenders are Badminton and 4v4 Volleyball,
+        with 16 repeat offenders. The sport with the fewest is Ice Hockey, at 1.
+      </p>
+
+      <p>
+        Most of the sports with more players required ended up with fewer repeat offenders,
+        whereas sports with fewer players required had more repeat offenders. Therefore,
+        it is possible that there are certain individuals to blame for the forfeit problem
+        in Northeastern intramurals, not necessarily an entire team.
+      </p>
+    </section>
+  </main>
+
+  <!-- your D3 logic (filename must match this!) -->
+  <script src="repeat-offenders.js"></script>
+</body>
+</html>

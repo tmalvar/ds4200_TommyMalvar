@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Repeat Offenders per Sport</title>
+  <script src="https://d3js.org/d3.v7.min.js"></script>
+  <style>
+    body {
+      font-family: sans-serif;
+    }
+    svg {
+      font-size: 12px;
+    }
+    .bar {
+      fill: #d00404;
+    }
+    .bar:hover {
+      opacity: 0.8;
+    }
+    .axis-label {
+      font-weight: bold;
+    }
+    .tooltip {
+      position: absolute;
+      padding: 4px 8px;
+      background: white;
+      border: 1px solid #ccc;
+      font-size: 12px;
+      pointer-events: none;
+    }
+  </style>
+</head>
+<body>
+  <h2>Number of Repeat Offenders per Sport</h2>
+  <div id="chart"></div>
+
+  <!-- my actual chart logic lives in this file -->
+  <script src="repeat-offenders.js"></script>
+  <p> This visualization shows the number of repeat offenders by each sport. A repeat offender is a team that forfeited more than once in a season.</p>
+  <p> The sports with the most repeat offenders are Badminton and 4v4 Volleyball, with 16 repeat offenders. The sport with the fewest is Ice Hockey, at 1.</p>
+  <p> Most of the sports with more players required ended up with less repeat offenders, whereas sports with fewer players required had more repeat offenders.</p>
+  <p> Therefore, it is possible that there are certain individuals to blame for the forfeit problem in Intramurals at Northeastern, not necessarily a group of people.</p>
+</body>
+</html>

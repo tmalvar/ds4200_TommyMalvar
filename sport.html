@@ -1,0 +1,83 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Forfeit Status by Sport — Tableau Visualization</title>
+
+  <!-- shared site styling -->
+  <link href="style.css" rel="stylesheet" />
+</head>
+
+<body>
+  <!-- header matches all other pages -->
+  <header class="static-header">
+    <div class="brand">A Dive into the Forfeits of Northeastern Intramurals</div>
+    <nav class="nav-links">
+        <a href="index.html">Home</a>
+        <a href="sport.html">Forfeits by Sport</a>
+        <a href="location.html">Forfeits by Location</a>
+        <a href="repeat-offenders.html">Repeat Offenders</a>
+        <a href="time.html">Time Factor</a>
+        <a href="about.html">About Us</a>
+    </nav>
+  </header>
+
+  <div id="react-root"></div>
+
+  <main id="site-content">
+    <section class="module">
+      <h1>Forfeit Status by Sport</h1>
+
+      <p>
+        This Tableau visualization compares forfeits, possible forfeits, and non-forfeits 
+        across all intramural sports at Northeastern University. Explore how each sport 
+        differs in reliability and game completion rates.
+      </p>
+
+      <!-- Tableau Embed Starts Here -->
+      <div class='tableauPlaceholder' id='viz1764544094948' style='position: relative'>
+        <noscript>
+          <a href='#'>
+            <img alt='Forfeit Status by Sport'
+                 src='https://public.tableau.com/static/images/NE/NEU_IM_Data/ForfeitStatusbySport/1_rss.png'
+                 style='border: none' />
+          </a>
+        </noscript>
+
+        <object class='tableauViz' style='display:none;'>
+          <param name='host_url' value='https%3A%2F%2Fpublic.tableau.com%2F' />
+          <param name='embed_code_version' value='3' />
+          <param name='site_root' value='' />
+          <param name='name' value='NEU_IM_Data&#47;ForfeitStatusbySport' />
+          <param name='tabs' value='no' />
+          <param name='toolbar' value='yes' />
+          <param name='static_image'
+                 value='https://public.tableau.com/static/images/NE/NEU_IM_Data/ForfeitStatusbySport/1.png' />
+          <param name='animate_transition' value='yes' />
+          <param name='display_static_image' value='yes' />
+          <param name='display_spinner' value='yes' />
+          <param name='display_overlay' value='yes' />
+          <param name='display_count' value='yes' />
+          <param name='language' value='en-GB' />
+        </object>
+      </div>
+
+      <script type='text/javascript'>
+        var divElement = document.getElementById('viz1764544094948');
+        var vizElement = divElement.getElementsByTagName('object')[0];
+        
+        // Responsive width and height
+        vizElement.style.width = '100%';
+        vizElement.style.height = (divElement.offsetWidth * 0.75) + 'px';
+
+        var scriptElement = document.createElement('script');
+        scriptElement.src = 'https://public.tableau.com/javascripts/api/viz_v1.js';
+        vizElement.parentNode.insertBefore(scriptElement, vizElement);
+      </script>
+      <!-- Tableau Embed Ends Here -->
+
+    </section>
+  </main>
+</body>
+</html>

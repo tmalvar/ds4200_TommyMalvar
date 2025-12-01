@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Game Time Category — Intramural Forfeits</title>
+
+  <link href="style.css" rel="stylesheet" />
+
+  <style>
+    iframe {
+      width: 100%;
+      height: 600px;
+      border: none;
+      border-radius: 10px;
+      background: white;
+    }
+  </style>
+</head>
+
+<body>
+  <!-- Header (matches all other pages) -->
+  <header class="static-header">
+    <div class="brand">A Dive into the Forfeits of Northeastern Intramurals</div>
+    <nav class="nav-links">
+        <a href="index.html">Home</a>
+        <a href="sport.html">Forfeits by Sport</a>
+        <a href="location.html">Forfeits by Location</a>
+        <a href="repeat-offenders.html">Repeat Offenders</a>
+        <a href="time.html">Time Factor</a>
+        <a href="about.html">About Us</a>
+    </nav>
+  </header>
+
+  <div id="react-root"></div>
+
+  <main id="site-content">
+    <section class="module">
+      <h1>Does Time Influence Forfeits?</h1>
+      <p>
+        This visualization shows the relationship between game start time
+        and whether a game was forfeited.
+      </p>
+
+      <!-- Embedded Altair chart -->
+      <iframe src="IM_Time_Category_plot.html"></iframe>
+
+      <p>
+        According to the chart, most forfeits occur after 6 PM. However, the
+        overall box sizes between the “Forfeit” and “No Forfeit” groups
+        are similar, suggesting time plays a minor role.
+      </p>
+    </section>
+  </main>
+</body>
+</html>
