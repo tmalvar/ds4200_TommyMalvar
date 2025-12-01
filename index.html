@@ -1,91 +1,371 @@
 <!DOCTYPE html>
 <html lang="en">
-  <head>
-    <meta charset="UTF-8" />
-    <title>Tommy Malvar's Digital Portfolio</title>
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>A Dive into the Forfeits of Northeastern Intramurals</title>
+    <link href="style.css" rel="stylesheet" />
+</head>
+<body>
+        <header class="static-header">
+            <div class="brand"></div>
+            <nav class="nav-links">
+                <a href="index.html">Home</a>
+                <a href="sport.html">Forfeits by Sport</a>
+                <a href="location.html">Forfeits by Location</a>
+                <a href="repeat-offenders.html">Repeat Offenders</a>
+                <a href="time.html">Time Factor</a>
+                <a href="about.html">About Us</a>
+            </nav>
+        </header>
+        <div id="react-root"></div>
 
-    <!-- Your CSS (exact) -->
-    <style>
-      .got {
-          border: solid 1px black;
-          border-collapse: collapse;
-          border-spacing: 0;
-          font: normal 13px Arial, sans-serif;
-      }
-      .got thead th {
-          background-color: #417a82;
-          border: solid 1px black;
-          color: white;
-          padding: 10px;
-          text-align: left;
-      }
-      .got tbody td {
-          border: solid 1px black;
-          color: #333;
-          padding: 10px;
-      }
-    </style>
+    <main id="site-content">
+    
+    <h1> A Dive into the Forfeits of Northeastern Intramurals</h1>
 
-    <!-- D3 -->
-    <script src="https://d3js.org/d3.v7.min.js"></script>
-  </head>
+    <section class="module">
+    <h3>Overall Introduction</h3>
 
-  <body>
-    <nav>
-      <a href="index.html">Home</a> |
-      <a href="second_page.html">My Work</a> |
-      <a href="contact.html">Contact Me</a>
-    </nav>
+    <p>Intramural sports are fun ways to connect with peers, destress from classes or work, and try different activities.</p>
 
-    <h1>Welcome to Tommy Malvar's Digital Portfolio!</h1>
+    <p>However, these activities are noncommittal, which presents opportunities for people to miss events. When too many players on a team 
+        miss a game, the opposition wins by a  forfeit. This inconvenience affects all players and officials, 
+        as their time and effort was wasted for each canceled event.
+    </p>  
 
-    <p>This website is one of many that I will be making in my near future. My name is Tommy Malvar, I am 21 years old, and hail from New Wilmington, Pennsylvania.</p>
+    <p>In addition, a penalty fee is charged against the forfeiting team, 
+        which hurts captains financially and may fester animosity within teams. By examining data that documents every match outcome, 
+        managers and players can prepare for forfeits in the future. In this project, we will investigate Northeastern’s intramural activities 
+        to understand what factors cause forfeiting and how they affect teams’ success. 
+    </p>
 
-    <p>I major in Data Science and Business Administration, and minor in Interaction Design. Since starting college, I grew an interest in UI / UX Design. I initially started off as purely Business Administration, and had a steady interest in advertising. After meeting more people at university and learning about their backgrounds, I realized that they are either majoring in a complex subject or are heavily involved in different activities. This realization left me feeling inclined to do more. After learning about UI / UX Design, I started a journey that has taken me to my current position.</p>
+    <p> To learn more about the forfeit issue or general intramural information at Northeastern,
+         you can visit the <a href="https://recreation.northeastern.edu/intramural-sports/">Northeastern Recreation Website</a> or register for a Sport
+         by visiting the 
+         <a href="https://www.imleagues.com/Northeastern">IM League University Page</a>.</p>
 
-    <p>I started out with Business and Design. No coding was involved, the only objective was to understand the "why" factor. I learned to investigate deeper, think beyond the barriers of traditional thought. After some time, I felt dissatisfied with what I was doing. The classes were not fulfilling. Assignments were not challenging or applicable enough to my desired career path. Once I looked into the combined program with Data Science and Business Administration, I knew immediately that this learning path would be more valuable. Although I had fearful perceptions of coding, I knew I must break through at some point.</p>
+    </section>
 
-    <p>Two years later, I am halfway through my course path and am truly satisfied with the choices I made. Learning the fundamentals of data analysis and applying programmatic methods to efficiently understand real-world problems brings joy to my heart every day. This new passion will hopefully become my life and lead me to new opportunities to grow — not only as an analyst but as a human being.</p>
+    <section class="module">
+    <h3>Introduction to the Data</h3>
 
-    <figure>
-      <img src="Evo_Of_Man.jpg" alt="Evolution of Man" width="600" />
-      <figcaption>Accurate Depiction of My Experience with Data Science</figcaption>
-    </figure>
+    <p> For our data analysis, we utilized a dataset called "Intramural_Clean.csv". This cleaned file
+        contains relevant information for almost every logged intramural game in the Fall of 2025. We
+        included games that occurred at one of the five main locations at the Boston campus.
+        There are over 700 rows of documented games, with each containing information for the following variables:</p>  
 
-    <!-- Sample table using your .got styles -->
-    <h2>Quick Highlights</h2>
-    <table class="got">
-      <thead>
-        <tr>
-          <th>Area</th>
-          <th>Focus</th>
-        </tr>
-      </thead>
-      <tbody>
-        <tr>
-          <td>Design</td>
-          <td>UI/UX, Interaction Design</td>
-        </tr>
-        <tr>
-          <td>Data</td>
-          <td>Analysis, Visualization (D3)</td>
-        </tr>
-      </tbody>
-    </table>
+        <div class="center">
+        <table class="tg">
+            <thead>
+              <tr>
+                <th class="tg-0lax">Variable Name</th>
+                <th class="tg-0lax">Details</th>
+              </tr>
+            </thead>
+            <tbody>
+              <tr>
+                <td class="tg-0lax">Date</td>
+                <td class="tg-0lax">Date of game played</td>
+              </tr>
+              <tr>
+                <td class="tg-0lax">Time</td>
+                <td class="tg-0lax">Start Time of game</td>
+              </tr>
+              <tr>
+                <td class="tg-0lax">AM/PM</td>
+                <td class="tg-0lax">Half of day game was played</td>
+              </tr>
+              <tr>
+                <td class="tg-0lax">Time_Cleaned</td>
+                <td class="tg-0lax">Formatted version of Time column</td>
+              </tr>
+              <tr>
+                <td class="tg-0lax">Facility</td>
+                <td class="tg-0lax">Location of game played</td>
+              </tr>
+              <tr>
+                <td class="tg-0lax">Latitude</td>
+                <td class="tg-0lax">Latitude coordinate of location</td>
+              </tr>
+              <tr>
+                <td class="tg-0lax">Longitude</td>
+                <td class="tg-0lax">Longitude cooridnate of location</td>
+              </tr>
+              <tr>
+                <td class="tg-0lax">Location_Type</td>
+                <td class="tg-0lax">Either an indoor or outdoor location</td>
+              </tr>
+              <tr>
+                <td class="tg-0lax">Game_Time_Category</td>
+                <td class="tg-0lax">Either an "Early" or "Late" game, as determined by the study conductors.</td>
+              </tr>
+              <tr>
+                <td class="tg-0lax">Sport</td>
+                <td class="tg-0lax">Sport of the game played</td>
+              </tr>
+              <tr>
+                <td class="tg-0lax">Forfeit</td>
+                <td class="tg-0lax">Forfeit status of games (either "Yes" or "No")</td>
+              </tr>
+            </tbody>
+            </table>
+        </div>
+        <p>Most of the variables were initially included. Data such as forfeit status and game time category were added by cross referencing with
+            the initial website, as they were not included. Excluded games consisted of any that were:
+            <ul>
+                <li>Not played in Boston (ie. Oakland)</li>
+                <li>Did not have an exact location (ie. ESports)</li>
+                <li>Were not played yet (null values)</li>
+                </ul>
+        </p>
 
-    <footer>
-      <p>
-        <a href="mailto:malvarthomas@gmail.com">Email</a> •
-        <a href="https://www.linkedin.com/in/thomas-malvar/" target="_blank">LinkedIn</a> •
-        <a href="https://github.com/tmalvar/ds4200_TommyMalvar" target="_blank">GitHub</a>
-      </p>
-    </footer>
+        <p>The dataset helps investigate different variables to determine their influences on forfeits. The following questions were identified and
+            investigated through data analysis:
+            <ul>
+                <li>"Did the type of sport have an influence on forfeit rates?"</li>
+                <li>"Did location have an influence on forfeit rates?"</li>
+                <li>"Are there groups / people who forfeited multiple times?"</li>
+                <li>"Did the time of game influence forfeit rates?"</li>
+                </ul>
+        </p>
+    <section>
+        <h3>Forfeits by Sport</h3>
+            <div class = 'center'>
+                <iframe src="sport.html" width="80%" height="400px" frameborder="0"></iframe>
+                </div>
+            </div>
+            
+            <p>
+            </p>
 
-    <script>
-      // Minimal visible D3 usage
-      d3.select("body").style("background-color", "#f2fff4");  // soft light green
-      d3.select("nav").style("margin-bottom", "12px");
-      d3.selectAll("h1, h2").style("color", "#0b0b0b");
-    </script>
-  </body>
+    </section>
+
+    <section class="module">
+    <h3>Forfeits by Location</h3>
+        
+        <div class = 'center'>
+                <!-- <iframe src="histogram/index.html" width="100%" height="400px" frameborder="0"></iframe>-->
+                <iframe src="location.html" width="100%" height="400px" frameborder="0"></iframe>
+            </div>
+            <div class = 'text'>
+                <p> 
+                </p>
+            </div>            
+        </div>
+        
+    </section>
+
+    <section class="module">
+    <h3> Were there repeat offenders? </h3>
+
+        <div class = 'container'>
+            <div class = 'text'>
+                <p>
+                
+                </p>
+            </div>
+                <iframe src="repeat-offenders.html" width="100%" height="500px" frameborder="0"></iframe>
+            </div>   
+        </div>
+
+        <p>
+        </p>
+
+        <!-- <div class = 'center'>
+            <iframe src="scatter.html" width="85%" height="550px" frameborder="0"></iframe>
+        </div>-->
+
+    </section>
+
+    <section class="module">
+    <h3>SDoes the start time affect forfeit rates?</h3>
+
+        <p>
+        </p>
+
+        <div class = 'center'>
+            <iframe src="time.html" width="95%" height="300px" frameborder="0"></iframe>
+        </div>
+
+    </section>
+
+    <section class="module">
+    <h3>Summary & Contact</h3>
+
+        <p>
+            In this visualization analysis, we try to investigate the forfeit issue for Northeastern intramural sports. We looked at
+            different factors that influence the issue to help mitigate outlying flaws in the system.
+        </p>
+        <p>
+            This data only covers the Fall 2025 semester and does not document games from previous semesters, which could determine if these patterns
+            are seasonal. 
+        </p>
+
+                <p>If you are interested in the project and want to share more
+                    opinions or resource about the project, please contact:
+                    <ul>
+                        <li>Tommy Malvar (malvar.t@northeastern.edu)</li>
+                        <li>Raphael Sogoeco</li>
+                        <li>Isabel Garcia Pintos</li>
+                        </ul>
+                </p>
+
+                </section>
+
+            </main>
+
+<!-- java script code-->>
+        <!-- React, ReactDOM and Babel (for in-browser JSX) -->
+        <script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script>
+        <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+        <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+
+        <script type="text/babel">
+            const { useState, useEffect } = React;
+
+            function Header({ onToggleMenu }) {
+                return (
+                    <header className="app-header">
+                        <div className="brand">Unemployment Viz</div>
+                        <nav className="nav-links" aria-label="Primary">
+                                        <a href="index.html">Home</a>
+                                        <a href="map.html">Map</a>
+                                        <a href="scatter.html">Scatter</a>
+                                        <a href="summary.html">Compare</a>
+                                        <a href="histogram/index.html">Histogram</a>
+                                        <a href="about.html">About</a>
+                                    </nav>
+                        <button className="menu-toggle" onClick={onToggleMenu} aria-label="Open menu">☰</button>
+                    </header>
+                );
+            }
+
+            function ThemeControls({ theme, setTheme }) {
+                const [start, setStart] = useState(theme.start);
+                const [end, setEnd] = useState(theme.end);
+                const [scale, setScale] = useState(theme.scale);
+
+                useEffect(() => {
+                    setStart(theme.start);
+                    setEnd(theme.end);
+                    setScale(theme.scale);
+                }, [theme]);
+
+                function apply() {
+                    const next = { ...theme, start, end, scale };
+                    setTheme(next);
+                    localStorage.setItem('unemp_theme', JSON.stringify(next));
+                }
+
+                function reset() {
+                    const def = { start: '#091540', end: '#2b4b7c', text: '#e6f0ff', scale: 1 };
+                    setStart(def.start); setEnd(def.end); setScale(def.scale);
+                    setTheme(def);
+                    localStorage.setItem('unemp_theme', JSON.stringify(def));
+                }
+
+                return (
+                    <section className="theme-controls">
+                        <label>Gradient start <input type="color" value={start} onChange={e=>setStart(e.target.value)} /></label>
+                        <label>Gradient end <input type="color" value={end} onChange={e=>setEnd(e.target.value)} /></label>
+                        <label>Scale <input type="range" min="0.8" max="1.5" step="0.01" value={scale} onChange={e=>setScale(e.target.value)} /></label>
+                        <div className="theme-actions">
+                            <button onClick={apply}>Apply</button>
+                            <button onClick={reset}>Reset</button>
+                        </div>
+                    </section>
+                );
+            }
+
+            function Header({ onToggleMenu, isFixed, visible }) {
+                return (
+                    <header className={`app-header ${isFixed? 'fixed':''} ${!visible? 'hidden':''}`}>
+                        <div className="brand">Unemployment Viz</div>
+                        <nav className="nav-links" aria-label="Primary">
+                            <a href="index.html">Home</a>
+                            <a href="map.html">Map</a>
+                            <a href="scatter.html">Scatter</a>
+                            <a href="summary.html">Compare</a>
+                            <a href="histogram/index.html">Histogram</a>
+                            <a href="about.html">About</a>
+                        </nav>
+                        <button className="menu-toggle" onClick={onToggleMenu} aria-label="Open menu">☰</button>
+                    </header>
+                );
+            }
+
+
+            function App() {
+                const defaultTheme = { start: '#091540', end: '#2b4b7c', text: '#e6f0ff', scale: 1 };
+                const [theme, setTheme] = useState(() => {
+                    try {
+                        const raw = localStorage.getItem('unemp_theme');
+                        return raw ? JSON.parse(raw) : defaultTheme;
+                    } catch(e) { return defaultTheme; }
+                });
+                const [menuOpen, setMenuOpen] = useState(false);
+                const [headerVisible, setHeaderVisible] = useState(true);
+                const [headerFixed, setHeaderFixed] = useState(false);
+
+                useEffect(()=>{
+                    let lastY = window.scrollY;
+                    const onScroll = () => {
+                        const y = window.scrollY;
+                        // pin header after small scroll
+                        setHeaderFixed(y > 60);
+                        if (Math.abs(y - lastY) < 5) return; // ignore tiny moves
+                        if (y > lastY && y > 80) {
+                            // scrolling down -> hide
+                            setHeaderVisible(false);
+                        } else {
+                            // scrolling up -> show
+                            setHeaderVisible(true);
+                        }
+                        lastY = y;
+                    };
+                    window.addEventListener('scroll', onScroll, { passive: true });
+                    return ()=> window.removeEventListener('scroll', onScroll);
+                }, []);
+
+                useEffect(()=>{
+                    document.documentElement.style.setProperty('--primary-1', theme.start);
+                    document.documentElement.style.setProperty('--primary-2', theme.end);
+                    document.documentElement.style.setProperty('--text-color', theme.text || '#e6f0ff');
+                    document.documentElement.style.setProperty('--scale', theme.scale || 1);
+                }, [theme]);
+
+                // hide static fallback header (if present) once React mounts
+                useEffect(()=>{
+                    const el = document.querySelector('.static-header');
+                    if(el) el.style.display = 'none';
+                }, []);
+
+                return (
+                    <div>
+                        <Header onToggleMenu={()=>setMenuOpen(s=>!s)} isFixed={headerFixed} visible={headerVisible} />
+                        {menuOpen && (
+                            <div className="mobile-menu" onClick={()=>setMenuOpen(false)}>
+                                <nav>
+                                    <a href="index.html">Home</a>
+                                    <a href="map.html">Map</a>
+                                    <a href="scatter.html">Scatter</a>
+                                    <a href="summary.html">Compare</a>
+                                    <a href="histogram/index.html">Histogram</a>
+                                    <a href="about.html">About</a>
+                                </nav>
+                            </div>
+                        )}
+
+                        <div className="controls-wrap">
+                            <ThemeControls theme={theme} setTheme={setTheme} />
+                        </div>
+                    </div>
+                );
+            }
+
+            ReactDOM.createRoot(document.getElementById('react-root')).render(<App />);
+        </script>
+
+</body>
 </html>

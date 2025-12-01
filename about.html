@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="style.css" rel="stylesheet" />
+</head>
+<body>
+  <header class="static-header">
+    <nav class="nav-links">
+      <a href="index.html">Home</a>
+      <a href="sport.html">Forfeits by Sport</a>
+      <a href="location.html">Forfeits by Location</a>
+      <a href="repeat-offenders.html">Repeat Offenders</a>
+      <a href="time.html">Time Factor</a>
+      <a href="about.html">About Us</a>
+    </nav>
+  </header>
+  <div id="react-root"></div>
+
+  <main id="site-content">
+
+    <h1>About The Conductors</h1>
+
+    <section class="module">
+      <h3>Project description</h3>
+      <p>
+        This group of three was in charge of conducting the data analysis. We are all involved in sports (with some in intramural teams), and found 
+        a frustration of dealing with forfeits in past intramural games. Our mission was to utilize the material we learned in class to investigate an
+        underlying problem within Northeastern's recreational life. 
+      </p>
+      <p>
+        We would love your feedback! Feel free to contact us at intramuralinvestigators@northeastern.edu to help out.
+      </p>
+    </section>
+
+    <section class="module">
+      <h3>The Investigators</h3>
+      <p>Here are the group members of this lovely project!</p>
+
+      <div class="members-container">
+        <div class="member-card">
+          <img src="isabel.jpg" alt="Isabel Photo" class="member-image" />
+          <h4 class="member-name">Isabel Garcia Pinto</h4>
+          <p class = "member-bio">Intramural Volleyball Player</p>
+          <p class="member-bio">DS and Public Health</p>
+        </div>
+
+        <div class="member-card">
+          <img src="headshot.jpg" alt="Tommy Photo" class="member-image" />
+          <h4 class="member-name">Tommy Malvar</h4>
+          <p class="member-bio">Intramural Data Enthusiast</p>
+          <p class="member-bio">Data Science and Business Administration</p>
+        </div>
+
+        <div class="member-card">
+          <img src="raph.jpg" alt="Raphael Photo" class="member-image">
+          <h4 class="member-name">Raphael Sogueco</h4>
+          <p class="member-bio">Intramural Broomball Champion</p>
+          <p class = "member-bio">Computer Science and Finance</p>
+        </div>
+      </div>
+
+    </section>
+
+  </main>
+
+  <!-- React, ReactDOM and Babel (for in-browser JSX) -->
+  <script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script>
+  <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+  <script src="https://unpkg.com/@babel/standalone/babel.min.js"></script>
+
+  <script type="text/babel">
+    const { useState, useEffect } = React;
+
+    function Header({ onToggleMenu, isFixed, visible }) {
+      return (
+        <header className={`app-header ${isFixed? 'fixed':''} ${!visible? 'hidden':''}`}>
+          <div className="brand">Unemployment Viz</div>
+          <nav className="nav-links" aria-label="Primary">
+            <a href="index.html">Home</a>
+            <a href="map.html">Map</a>
+            <a href="scatter.html">Scatter</a>
+            <a href="summary.html">Compare</a>
+            <a href="histogram/index.html">Histogram</a>
+            <a href="about.html">About</a>
+          </nav>
+          <button className="menu-toggle" onClick={onToggleMenu} aria-label="Open menu">☰</button>
+        </header>
+      );
+    }
+
+    
+
+    ReactDOM.createRoot(document.getElementById('react-root')).render(<App />);
+  </script>
+
+</body>
+</html>

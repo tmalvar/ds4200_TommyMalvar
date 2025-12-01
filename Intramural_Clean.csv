@@ -1,0 +1,785 @@
+﻿Date,Time,AM/PM,Time_Cleaned,Facility,Latitude,Longitude,Location_Type,Game_Time_Category,Surface,Sport,League,Home Team,Home Result,Home Score,Away Team,Away Result,Away Score,Forfeit
+9/15/2025,12:30,PM,12:30:00,Badger & Rosen Center (Squashbusters),42.33804951,-71.08587502,Indoor,Early,Squash 2nd Floor - Table 1,Table Tennis,Monday League 7pm to 10pm,G Gupta,W,2,A Kapoor,L,0,Yes
+9/15/2025,10:00,PM,22:00:00,Badger & Rosen Center (Squashbusters),42.33804951,-71.08587502,Indoor,Late,Squash 2nd Floor - Table 1,Table Tennis,Monday League 7pm to 10pm,N Mahangade,W,2,J Vasquez,L,0,Yes
+9/15/2025,4:15,PM,16:15:00,Badger & Rosen Center (Squashbusters),42.33804951,-71.08587502,Indoor,Early,Squash 2nd Floor - Table 1,Table Tennis,Monday League 7pm to 10pm,J Baskind,L,0,A Singh,W,2,No
+9/16/2025,10:00,PM,22:00:00,Badger & Rosen Center (Squashbusters),42.33804951,-71.08587502,Indoor,Late,Squash 2nd Floor - Table 1,Table Tennis,Tuesday League 7pm to 10pm,V Mahesh Babu,L,0,A Singh,W,2,No
+9/16/2025,6:45,PM,18:45:00,Badger & Rosen Center (Squashbusters),42.33804951,-71.08587502,Indoor,Late,Squash 2nd Floor - Table 1,Table Tennis,Tuesday League 7pm to 10pm,A Narasimhan,W,2,T van Riper,L,0,Yes
+9/16/2025,7:45,PM,19:45:00,Badger & Rosen Center (Squashbusters),42.33804951,-71.08587502,Indoor,Late,Squash 2nd Floor - Table 1,Table Tennis,Tuesday League 7pm to 10pm,H Wahi,L,0,J Jackson,W,2,No
+9/16/2025,7:30,PM,19:30:00,Badger & Rosen Center (Squashbusters),42.33804951,-71.08587502,Indoor,Late,Squash 2nd Floor - Table 1,Table Tennis,Tuesday League 7pm to 10pm,L Yang,W,2,S Romero,L,1,No
+9/17/2025,7:30,PM,19:30:00,Badger & Rosen Center (Squashbusters),42.33804951,-71.08587502,Indoor,Late,Squash 2nd Floor - Table 1,Table Tennis,Wednesday League 7pm to 10pm,S Ponnampalaya...,L,0,A Singh,W,2,No
+9/17/2025,7:45,PM,19:45:00,Badger & Rosen Center (Squashbusters),42.33804951,-71.08587502,Indoor,Late,Squash 2nd Floor - Table 1,Table Tennis,Wednesday League 7pm to 10pm,I Battles,L,0,A Gawde,W,2,No
+9/17/2025,7:45,PM,19:45:00,Badger & Rosen Center (Squashbusters),42.33804951,-71.08587502,Indoor,Late,Squash 2nd Floor - Table 1,Table Tennis,Wednesday League 7pm to 10pm,K Draganov,L,1,D Mehta,W,2,No
+9/18/2025,9:00,PM,21:00:00,Badger & Rosen Center (Squashbusters),42.33804951,-71.08587502,Indoor,Late,Squash 2nd Floor - Table 1,Table Tennis,Thursday League 7pm to 10pm,A Sindekar,W,2,Y Velasquez Al...,L,0,No
+9/18/2025,9:00,PM,21:00:00,Badger & Rosen Center (Squashbusters),42.33804951,-71.08587502,Indoor,Late,Squash 2nd Floor - Table 1,Table Tennis,Thursday League 7pm to 10pm,K Suzuki,L,0,J Jayaprakash,W,2,Yes
+9/18/2025,10:00,PM,22:00:00,Badger & Rosen Center (Squashbusters),42.33804951,-71.08587502,Indoor,Late,Squash 2nd Floor - Table 1,Table Tennis,Thursday League 7pm to 10pm,C Caver,W,2,J Lem,L,0,No
+9/18/2025,7:00,PM,19:00:00,Badger & Rosen Center (Squashbusters),42.33804951,-71.08587502,Indoor,Late,Squash 2nd Floor - Table 1,Table Tennis,Thursday League 7pm to 10pm,K Liang,L,0,A Kashid,W,2,No
+9/22/2025,11:00,PM,23:00:00,Badger & Rosen Center (Squashbusters),42.33804951,-71.08587502,Indoor,Late,Squash 2nd Floor - Table 1,Table Tennis,Monday League 7pm to 10pm,A Singh,L,0,A Kapoor,W,2,No
+9/22/2025,7:00,PM,19:00:00,Badger & Rosen Center (Squashbusters),42.33804951,-71.08587502,Indoor,Late,Squash 2nd Floor - Table 1,Table Tennis,Monday League 7pm to 10pm,N Mahangade,W,2,G Gupta,L,0,No
+9/22/2025,1:45,PM,13:45:00,Badger & Rosen Center (Squashbusters),42.33804951,-71.08587502,Indoor,Early,Squash 2nd Floor - Table 1,Table Tennis,Monday League 7pm to 10pm,J Baskind,W,2,J Vasquez,L,0,Yes
+9/23/2025,2:30,PM,14:30:00,Badger & Rosen Center (Squashbusters),42.33804951,-71.08587502,Indoor,Early,Squash 2nd Floor - Table 1,Table Tennis,Tuesday League 7pm to 10pm,V Mahesh Babu,L,0,S Romero,W,2,Yes
+9/23/2025,3:15,PM,15:15:00,Badger & Rosen Center (Squashbusters),42.33804951,-71.08587502,Indoor,Early,Squash 2nd Floor - Table 1,Table Tennis,Tuesday League 7pm to 10pm,A Singh,W,2,T van Riper,L,0,Yes
+9/23/2025,7:00,PM,19:00:00,Badger & Rosen Center (Squashbusters),42.33804951,-71.08587502,Indoor,Late,Squash 2nd Floor - Table 1,Table Tennis,Tuesday League 7pm to 10pm,H Wahi,L,0,C Caver,W,2,Yes
+9/23/2025,4:00,PM,16:00:00,Badger & Rosen Center (Squashbusters),42.33804951,-71.08587502,Indoor,Early,Squash 2nd Floor - Table 1,Table Tennis,Tuesday League 7pm to 10pm,L Yang,L,0,J Jackson,W,2,Yes
+9/24/2025,7:45,PM,19:45:00,Badger & Rosen Center (Squashbusters),42.33804951,-71.08587502,Indoor,Late,Squash 2nd Floor - Table 1,Table Tennis,Wednesday League 7pm to 10pm,D Mehta,L,0,A Singh,W,2,No
+9/24/2025,6:45,PM,18:45:00,Badger & Rosen Center (Squashbusters),42.33804951,-71.08587502,Indoor,Late,Squash 2nd Floor - Table 1,Table Tennis,Wednesday League 7pm to 10pm,K Draganov,L,0,A Gawde,W,2,No
+9/24/2025,10:30,PM,22:30:00,Badger & Rosen Center (Squashbusters),42.33804951,-71.08587502,Indoor,Late,Squash 2nd Floor - Table 1,Table Tennis,Wednesday League 7pm to 10pm,I Battles,W,2,L Schwartz,L,0,Yes
+9/25/2025,5:15,PM,17:15:00,Badger & Rosen Center (Squashbusters),42.33804951,-71.08587502,Indoor,Early,Squash 2nd Floor - Table 1,Table Tennis,Thursday League 7pm to 10pm,K Suzuki,L,0,A Kashid,W,2,Yes
+9/25/2025,7:30,PM,19:30:00,Badger & Rosen Center (Squashbusters),42.33804951,-71.08587502,Indoor,Late,Squash 2nd Floor - Table 1,Table Tennis,Thursday League 7pm to 10pm,L Schwartz,L,0,C Reed,W,2,Yes
+9/25/2025,9:00,PM,21:00:00,Badger & Rosen Center (Squashbusters),42.33804951,-71.08587502,Indoor,Late,Squash 2nd Floor - Table 1,Table Tennis,Thursday League 7pm to 10pm,T Manjunath,W,2,D Oâ€™Shea,L,0,No
+9/25/2025,10:30,PM,22:30:00,Badger & Rosen Center (Squashbusters),42.33804951,-71.08587502,Indoor,Late,Squash 2nd Floor - Table 1,Table Tennis,Thursday League 7pm to 10pm,R Lokuge,L,0,A Singh,W,2,Yes
+9/29/2025,9:45,PM,21:45:00,Badger & Rosen Center (Squashbusters),42.33804951,-71.08587502,Indoor,Late,Squash 2nd Floor - Table 1,Table Tennis,Monday League 7pm to 10pm,N Mahangade,W,2,J Baskind,L,0,No
+9/29/2025,7:30,PM,19:30:00,Badger & Rosen Center (Squashbusters),42.33804951,-71.08587502,Indoor,Late,Squash 2nd Floor - Table 1,Table Tennis,Monday League 7pm to 10pm,A Kapoor,L,0,A Singh,W,2,Yes
+9/29/2025,7:45,PM,19:45:00,Badger & Rosen Center (Squashbusters),42.33804951,-71.08587502,Indoor,Late,Squash 2nd Floor - Table 1,Table Tennis,Monday League 7pm to 10pm,G Gupta,L,0,J Baskind,W,2,Yes
+9/30/2025,11:00,AM,11:00:00,Badger & Rosen Center (Squashbusters),42.33804951,-71.08587502,Indoor,Early,Squash 2nd Floor - Table 1,Table Tennis,Tuesday League 7pm to 10pm,A Narasimhan,L,0,C Caver,W,2,No
+10/2/2025,5:30,PM,17:30:00,Badger & Rosen Center (Squashbusters),42.33804951,-71.08587502,Indoor,Early,Squash 2nd Floor - Table 1,Table Tennis,Thursday League 7pm to 10pm,C Reed,L,0,D Oâ€™Shea,W,2,No
+10/2/2025,6:00,PM,18:00:00,Badger & Rosen Center (Squashbusters),42.33804951,-71.08587502,Indoor,Late,Squash 2nd Floor - Table 1,Table Tennis,Thursday League 7pm to 10pm,K Liang,L,0,C Caver,W,2,Yes
+10/2/2025,6:00,PM,18:00:00,Badger & Rosen Center (Squashbusters),42.33804951,-71.08587502,Indoor,Late,Squash 2nd Floor - Table 1,Table Tennis,Thursday League 7pm to 10pm,A Sindekar,W,2,J Lem,L,0,Yes
+10/2/2025,1:30,PM,13:30:00,Badger & Rosen Center (Squashbusters),42.33804951,-71.08587502,Indoor,Early,Squash 2nd Floor - Table 1,Table Tennis,Thursday League 7pm to 10pm,R Lokuge,W,2,J Jayaprakash,L,0,Yes
+10/6/2025,9:45,PM,21:45:00,Badger & Rosen Center (Squashbusters),42.33804951,-71.08587502,Indoor,Late,Squash 2nd Floor - Table 1,Table Tennis,Monday League 7pm to 10pm,N Mahangade,W,2,A Singh,L,0,Yes
+10/9/2025,3:00,PM,15:00:00,Badger & Rosen Center (Squashbusters),42.33804951,-71.08587502,Indoor,Early,Squash 2nd Floor - Table 1,Table Tennis,Thursday League 7pm to 10pm,L Schwartz,L,0,A Singh,W,2,Yes
+10/9/2025,6:00,PM,18:00:00,Badger & Rosen Center (Squashbusters),42.33804951,-71.08587502,Indoor,Late,Squash 2nd Floor - Table 1,Table Tennis,Thursday League 7pm to 10pm,T Manjunath,W,2,Y Velasquez Al...,L,0,No
+10/14/2025,5:00,PM,17:00:00,Badger & Rosen Center (Squashbusters),42.33804951,-71.08587502,Indoor,Early,Squash 2nd Floor - Table 1,Table Tennis,Tuesday League 7pm to 10pm,J Jackson,DoubleLoss,0,L Yang,DoubleLoss,0,Yes
+10/14/2025,6:00,PM,18:00:00,Badger & Rosen Center (Squashbusters),42.33804951,-71.08587502,Indoor,Late,Squash 2nd Floor - Table 1,Table Tennis,Tuesday League 7pm to 10pm,C Caver,W,2,H Wahi,L,0,Yes
+10/14/2025,8:00,PM,20:00:00,Badger & Rosen Center (Squashbusters),42.33804951,-71.08587502,Indoor,Late,Squash 2nd Floor - Table 1,Table Tennis,Tuesday League 7pm to 10pm,S Romero,L,0,A Narasimhan,W,2,Yes
+10/14/2025,10:00,PM,22:00:00,Badger & Rosen Center (Squashbusters),42.33804951,-71.08587502,Indoor,Late,Squash 2nd Floor - Table 1,Table Tennis,Tuesday League 7pm to 10pm,A Singh,W,2,V Mahesh Babu,L,0,No
+10/15/2025,9:15,PM,21:15:00,Badger & Rosen Center (Squashbusters),42.33804951,-71.08587502,Indoor,Late,Squash 2nd Floor - Table 1,Table Tennis,Wednesday League 7pm to 10pm,D Mehta,L,0,K Draganov,W,2,Yes
+10/15/2025,11:00,AM,11:00:00,Badger & Rosen Center (Squashbusters),42.33804951,-71.08587502,Indoor,Early,Squash 2nd Floor - Table 1,Table Tennis,Wednesday League 7pm to 10pm,A Gawde,W,2,I Battles,L,0,No
+10/15/2025,11:45,AM,11:45:00,Badger & Rosen Center (Squashbusters),42.33804951,-71.08587502,Indoor,Early,Squash 2nd Floor - Table 1,Table Tennis,Wednesday League 7pm to 10pm,A Singh,W,2,K Draganov,L,0,No
+10/15/2025,12:30,PM,12:30:00,Badger & Rosen Center (Squashbusters),42.33804951,-71.08587502,Indoor,Early,Squash 2nd Floor - Table 1,Table Tennis,Wednesday League 7pm to 10pm,I Battles,W,2,S Ponnampalaya...,L,0,Yes
+10/16/2025,11:00,PM,23:00:00,Badger & Rosen Center (Squashbusters),42.33804951,-71.08587502,Indoor,Late,Squash 2nd Floor - Table 1,Table Tennis,Thursday League 7pm to 10pm,D Oâ€™Shea,W,2,J Lem,L,0,No
+10/16/2025,7:30,PM,19:30:00,Badger & Rosen Center (Squashbusters),42.33804951,-71.08587502,Indoor,Late,Squash 2nd Floor - Table 1,Table Tennis,Thursday League 7pm to 10pm,C Reed,L,0,K Liang,W,2,Yes
+10/16/2025,6:00,PM,18:00:00,Badger & Rosen Center (Squashbusters),42.33804951,-71.08587502,Indoor,Late,Squash 2nd Floor - Table 1,Table Tennis,Thursday League 7pm to 10pm,J Jayaprakash,DoubleLoss,0,Y Velasquez Al...,DoubleLoss,0,Yes
+10/16/2025,6:45,PM,18:45:00,Badger & Rosen Center (Squashbusters),42.33804951,-71.08587502,Indoor,Late,Squash 2nd Floor - Table 1,Table Tennis,Thursday League 7pm to 10pm,R Lokuge,L,0,T Manjunath,W,2,Yes
+10/21/2025,7:45,PM,19:45:00,Badger & Rosen Center (Squashbusters),42.33804951,-71.08587502,Indoor,Late,Squash 2nd Floor - Table 1,Table Tennis,Tuesday League 7pm to 10pm,A Singh,W,2,A Narasimhan,L,0,Yes
+10/21/2025,11:00,AM,11:00:00,Badger & Rosen Center (Squashbusters),42.33804951,-71.08587502,Indoor,Early,Squash 2nd Floor - Table 1,Table Tennis,Tuesday League 7pm to 10pm,A Singh,L,0,C Caver,W,2,No
+10/22/2025,4:00,PM,16:00:00,Badger & Rosen Center (Squashbusters),42.33804951,-71.08587502,Indoor,Early,Squash 2nd Floor - Table 1,Table Tennis,Wednesday League 7pm to 10pm,A Gawde,W,2,A Singh,L,0,No
+10/23/2025,11:00,PM,23:00:00,Badger & Rosen Center (Squashbusters),42.33804951,-71.08587502,Indoor,Late,Squash 2nd Floor - Table 1,Table Tennis,Thursday League 7pm to 10pm,A Singh,W,2,D Oâ€™Shea,L,0,No
+10/23/2025,11:00,AM,11:00:00,Badger & Rosen Center (Squashbusters),42.33804951,-71.08587502,Indoor,Early,Squash 2nd Floor - Table 1,Table Tennis,Thursday League 7pm to 10pm,C Caver,W,2,K Liang,L,0,No
+10/23/2025,3:00,PM,15:00:00,Badger & Rosen Center (Squashbusters),42.33804951,-71.08587502,Indoor,Early,Squash 2nd Floor - Table 1,Table Tennis,Thursday League 7pm to 10pm,A Kashid,L,0,T Manjunath,W,2,No
+10/30/2025,5:30,PM,17:30:00,Badger & Rosen Center (Squashbusters),42.33804951,-71.08587502,Indoor,Early,Squash 2nd Floor - Table 1,Table Tennis,Thursday League 7pm to 10pm,T Manjunath,L,0,A Sindekar,W,2,No
+10/30/2025,6:15,PM,18:15:00,Badger & Rosen Center (Squashbusters),42.33804951,-71.08587502,Indoor,Late,Squash 2nd Floor - Table 1,Table Tennis,Thursday League 7pm to 10pm,A Sindekar,W,2,A Singh,L,0,No
+10/30/2025,6:00,PM,18:00:00,Badger & Rosen Center (Squashbusters),42.33804951,-71.08587502,Indoor,Late,Squash 2nd Floor - Table 1,Table Tennis,Thursday League 7pm to 10pm,T Manjunath,W,2,C Caver,L,0,No
+11/4/2025,6:45,PM,18:45:00,Badger & Rosen Center (Squashbusters),42.33804951,-71.08587502,Indoor,Late,Squash Court 3,Squash,Singles Tournament,M Balakumar,W,3,D Wu,L,0,No
+11/4/2025,10:45,AM,10:45:00,Badger & Rosen Center (Squashbusters),42.33804951,-71.08587502,Indoor,Early,Squash Court 3,Squash,Singles Tournament,A Gandhi,L,0,A Liew,W,3,No
+11/5/2025,11:15,PM,23:15:00,Badger & Rosen Center (Squashbusters),42.33804951,-71.08587502,Indoor,Late,Squash Court 3,Squash,Singles Tournament,Y Nalluri,DoubleLoss,0,Ethical Squash,DoubleLoss,0,Yes
+11/5/2025,7:30,PM,19:30:00,Badger & Rosen Center (Squashbusters),42.33804951,-71.08587502,Indoor,Late,Squash Court 3,Squash,Singles Tournament,Squashaholic,DoubleLoss,0,M Balakumar,DoubleLoss,0,Yes
+9/16/2025,9:00,PM,21:00:00,Cabot Center,42.33922949,-71.08921692,Indoor,Late,Turf Field,Kickball League,Kickball League,Lobster Kickers,W,5,S Sheth,L,0,Yes
+9/16/2025,6:00,PM,18:00:00,Cabot Center,42.33922949,-71.08921692,Indoor,Late,Turf Field,Kickball League,Kickball League,E Knizhnik,W,11,C Cairns,L,7,No
+9/16/2025,6:00,PM,18:00:00,Cabot Center,42.33922949,-71.08921692,Indoor,Late,Turf Field,Kickball League,Kickball League,Babadook,W,5,J Fukuda,L,0,Yes
+9/23/2025,6:00,PM,18:00:00,Cabot Center,42.33922949,-71.08921692,Indoor,Late,Turf Field,Kickball League,Kickball League,Torch Select,W,5,L Valente,L,0,Yes
+9/23/2025,6:00,PM,18:00:00,Cabot Center,42.33922949,-71.08921692,Indoor,Late,Turf Field,Kickball League,Kickball League,Prayer To A Fallen God,W,13,Who's Gonna Carry Boats,L,3,No
+9/23/2025,7:45,PM,19:45:00,Cabot Center,42.33922949,-71.08921692,Indoor,Late,Turf Field,Kickball League,Kickball League,super seniors,L,0,F Averill,W,5,Yes
+9/25/2025,6:00,PM,18:00:00,Cabot Center,42.33922949,-71.08921692,Indoor,Late,Turf Field,Kickball League,Kickball League,Lobster Kickers,W,5,J Fukuda,L,0,Yes
+9/30/2025,11:00,AM,11:00:00,Cabot Center,42.33922949,-71.08921692,Indoor,Early,Turf Field,Kickball League,Kickball League,F Averill,DoubleLoss,0,L Valente,DoubleLoss,0,Yes
+9/30/2025,11:45,AM,11:45:00,Cabot Center,42.33922949,-71.08921692,Indoor,Early,Turf Field,Kickball League,Kickball League,Torch Select,W,5,C Cairns,L,0,No
+9/30/2025,12:30,PM,12:30:00,Cabot Center,42.33922949,-71.08921692,Indoor,Early,Turf Field,Kickball League,Kickball League,Prayer To A Fallen God,W,15,Elite Heat Kickball,L,3,No
+10/7/2025,6:00,PM,18:00:00,Cabot Center,42.33922949,-71.08921692,Indoor,Late,Turf Field,Kickball League,Kickball League,E Knizhnik,L,0,Elite Heat Kickball,W,5,Yes
+10/7/2025,11:00,PM,23:00:00,Cabot Center,42.33922949,-71.08921692,Indoor,Late,Turf Field,Kickball League,Kickball League,super seniors,W,5,S Sheth,L,0,Yes
+10/7/2025,11:00,PM,23:00:00,Cabot Center,42.33922949,-71.08921692,Indoor,Late,Turf Field,Kickball League,Kickball League,Babadook,W,5,Who's Gonna Carry Boats,L,0,Yes
+10/21/2025,8:45,PM,20:45:00,Cabot Center,42.33922949,-71.08921692,Indoor,Late,Turf Field,Kickball League,Kickball League,E Knizhnik,W,5,Who's Gonna Carry Boats,L,0,Yes
+10/21/2025,12:30,PM,12:30:00,Cabot Center,42.33922949,-71.08921692,Indoor,Early,Turf Field,Kickball League,Kickball League,Torch Select,W,14,F Averill,L,0,No
+10/21/2025,2:00,PM,14:00:00,Cabot Center,42.33922949,-71.08921692,Indoor,Early,Turf Field,Kickball League,Kickball League,Elite Heat Kickball,W,5,C Cairns,L,0,No
+10/24/2025,6:00,PM,18:00:00,Cabot Center,42.33922949,-71.08921692,Indoor,Late,Turf Field,Cricket League,Friday Night Indoor League,Chennai Sharks,L,26,Das and Co.,W,54,No
+10/28/2025,11:15,PM,23:15:00,Cabot Center,42.33922949,-71.08921692,Indoor,Late,Turf Field,Kickball League,Kickball League,Prayer To A Fallen God,W,12,Elite Heat Kickball,L,0,No
+10/28/2025,5:15,PM,17:15:00,Cabot Center,42.33922949,-71.08921692,Indoor,Early,Turf Field,Kickball League,Kickball League,Babadook,L,2,E Knizhnik,W,8,No
+10/28/2025,6:00,PM,18:00:00,Cabot Center,42.33922949,-71.08921692,Indoor,Late,Turf Field,Kickball League,Kickball League,Lobster Kickers,W,9,super seniors,L,5,No
+10/30/2025,6:00,PM,18:00:00,Cabot Center,42.33922949,-71.08921692,Indoor,Late,Turf Field,Kickball League,Kickball League,E Knizhnik,W,15,Lobster Kickers,L,5,No
+10/30/2025,7:30,PM,19:30:00,Cabot Center,42.33922949,-71.08921692,Indoor,Late,Turf Field,Kickball League,Kickball League,Prayer To A Fallen God,W,10,Torch Select,L,0,No
+10/31/2025,2:30,PM,14:30:00,Cabot Center,42.33922949,-71.08921692,Indoor,Early,Turf Field,Cricket League,Friday Night Indoor League,K Vora,W,50,H shah,L,0,Yes
+10/31/2025,9:00,PM,21:00:00,Cabot Center,42.33922949,-71.08921692,Indoor,Late,Turf Field,Cricket League,Friday Night Indoor League,Vikings,W,50,Men In Blue,L,0,Yes
+11/2/2025,10:00,PM,22:00:00,Cabot Center,42.33922949,-71.08921692,Indoor,Late,Turf Field,Indoor 6v6 Soccer,6v6 Indoor League,Mccallus FC,L,0,Kappa Sig,W,6,No
+11/2/2025,10:00,PM,22:00:00,Cabot Center,42.33922949,-71.08921692,Indoor,Late,Turf Field,Indoor 6v6 Soccer,6v6 Indoor League,J Kim,W,6,M Tafesse,L,1,No
+11/2/2025,1:00,PM,13:00:00,Cabot Center,42.33922949,-71.08921692,Indoor,Early,Turf Field,Indoor 6v6 Soccer,6v6 Indoor League,Red Djed Redemption,W,7,A Liew,L,0,No
+11/2/2025,2:00,PM,14:00:00,Cabot Center,42.33922949,-71.08921692,Indoor,Early,Turf Field,Indoor 6v6 Soccer,6v6 Indoor League,No Name FC,W,3,K Lou,L,0,Yes
+11/2/2025,3:00,PM,15:00:00,Cabot Center,42.33922949,-71.08921692,Indoor,Early,Turf Field,Indoor 6v6 Soccer,6v6 Indoor League,Sunday Leaguers,W,3,Mack Attack,L,0,Yes
+11/2/2025,6:00,PM,18:00:00,Cabot Center,42.33922949,-71.08921692,Indoor,Late,Turf Field,Indoor 6v6 Soccer,6v6 Indoor League,S Sanchez,L,0,H Morcella,W,3,Yes
+11/2/2025,6:00,PM,18:00:00,Cabot Center,42.33922949,-71.08921692,Indoor,Late,Turf Field,Indoor 6v6 Soccer,6v6 Indoor League,J Zhou,W,3,J Chen,L,0,Yes
+11/4/2025,12:15,PM,12:15:00,Cabot Center,42.33922949,-71.08921692,Indoor,Early,Turf Field,Kickball League,Kickball League,Prayer To A Fallen God,W,11,E Knizhnik,L,0,No
+11/4/2025,12:15,PM,12:15:00,Cabot Center,42.33922949,-71.08921692,Indoor,Early,Turf Field,Indoor 6v6 Soccer,6v6 Indoor League,A Ahuja,Tied,2,M Harrington,Tied,2,No
+11/4/2025,1:00,PM,13:00:00,Cabot Center,42.33922949,-71.08921692,Indoor,Early,Turf Field,Indoor 6v6 Soccer,6v6 Indoor League,NU Club Esports,L,1,FC Sans Protection,W,6,No
+11/6/2025,6:00,PM,18:00:00,Cabot Center,42.33922949,-71.08921692,Indoor,Late,Turf Field,Indoor 6v6 Soccer,6v6 Indoor League,J Monsen,W,3,elite heat soccer,L,1,No
+11/6/2025,6:45,PM,18:45:00,Cabot Center,42.33922949,-71.08921692,Indoor,Late,Turf Field,Indoor 6v6 Soccer,6v6 Indoor League,Unathletico Madrid,W,3,A Kashiri,L,2,No
+11/6/2025,9:45,PM,21:45:00,Cabot Center,42.33922949,-71.08921692,Indoor,Late,Turf Field,Indoor 6v6 Soccer,6v6 Indoor League,J Tyrer,W,3,N Ferraro,L,0,Yes
+11/6/2025,7:30,PM,19:30:00,Cabot Center,42.33922949,-71.08921692,Indoor,Late,Turf Field,Indoor 6v6 Soccer,6v6 Indoor League,Oozma Kappa FC,W,3,B Pearlman,L,0,No
+11/7/2025,9:00,PM,21:00:00,Cabot Center,42.33922949,-71.08921692,Indoor,Late,Turf Field,Cricket League,Friday Night Indoor League,H shah,W,33,Men In Blue,L,32,No
+11/7/2025,10:30,PM,22:30:00,Cabot Center,42.33922949,-71.08921692,Indoor,Late,Turf Field,Cricket League,Friday Night Indoor League,Vikings,W,42,Das and Co.,L,40,No
+11/7/2025,8:15,PM,20:15:00,Cabot Center,42.33922949,-71.08921692,Indoor,Late,Turf Field,Cricket League,Friday Night Indoor League,Chennai Sharks,W,23,A Gambhir,L,22,No
+11/8/2025,9:15,PM,21:15:00,Cabot Center,42.33922949,-71.08921692,Indoor,Late,Turf Field,Indoor 6v6 Soccer,6v6 Indoor League,The Maguires,W,3,A Demircan,L,0,Yes
+11/8/2025,7:00,PM,19:00:00,Cabot Center,42.33922949,-71.08921692,Indoor,Late,Turf Field,Indoor 6v6 Soccer,6v6 Indoor League,How I Megged Your Mother,L,0,Z Karousos,W,3,Yes
+11/8/2025,7:45,PM,19:45:00,Cabot Center,42.33922949,-71.08921692,Indoor,Late,Turf Field,Indoor 6v6 Soccer,6v6 Indoor League,L Salemo,W,4,Last Dance,L,0,No
+11/8/2025,7:45,PM,19:45:00,Cabot Center,42.33922949,-71.08921692,Indoor,Late,Turf Field,Indoor 6v6 Soccer,6v6 Indoor League,Z Jiang,W,6,S Clock,L,0,No
+11/8/2025,8:30,PM,20:30:00,Cabot Center,42.33922949,-71.08921692,Indoor,Late,Turf Field,Indoor 6v6 Soccer,6v6 Indoor League,J Thorley,L,0,A Szerdy,W,3,No
+11/9/2025,9:00,PM,21:00:00,Cabot Center,42.33922949,-71.08921692,Indoor,Late,Turf Field,Indoor 6v6 Soccer,6v6 Indoor League,A Ahuja,L,2,Kappa Sig,W,6,No
+11/9/2025,6:00,PM,18:00:00,Cabot Center,42.33922949,-71.08921692,Indoor,Late,Turf Field,Indoor 6v6 Soccer,6v6 Indoor League,S Sanchez,W,3,WinnaStayOn,L,0,Yes
+11/9/2025,11:00,PM,23:00:00,Cabot Center,42.33922949,-71.08921692,Indoor,Late,Turf Field,Indoor 6v6 Soccer,6v6 Indoor League,Mccallus FC,W,7,A Liew,L,0,No
+11/9/2025,11:00,PM,23:00:00,Cabot Center,42.33922949,-71.08921692,Indoor,Late,Turf Field,Indoor 6v6 Soccer,6v6 Indoor League,J Zhou,W,3,K Lou,L,0,Yes
+11/9/2025,8:00,PM,20:00:00,Cabot Center,42.33922949,-71.08921692,Indoor,Late,Turf Field,Indoor 6v6 Soccer,6v6 Indoor League,Red Djed Redemption,W,4,Mack Attack,L,0,No
+11/9/2025,9:00,PM,21:00:00,Cabot Center,42.33922949,-71.08921692,Indoor,Late,Turf Field,Indoor 6v6 Soccer,6v6 Indoor League,Sunday Leaguers,W,2,H Morcella,L,1,No
+11/9/2025,9:00,PM,21:00:00,Cabot Center,42.33922949,-71.08921692,Indoor,Late,Turf Field,Indoor 6v6 Soccer,6v6 Indoor League,J Kim,W,3,J Chen,L,0,Yes
+11/11/2025,9:00,PM,21:00:00,Cabot Center,42.33922949,-71.08921692,Indoor,Late,Turf Field,Indoor 6v6 Soccer,6v6 Indoor League,NU Club Esports,L,0,M Tafesse,W,2,No
+11/11/2025,8:30,PM,20:30:00,Cabot Center,42.33922949,-71.08921692,Indoor,Late,Turf Field,Indoor 6v6 Soccer,6v6 Indoor League,J Monsen,L,0,N Ferraro,W,2,Yes
+11/11/2025,2:30,PM,14:30:00,Cabot Center,42.33922949,-71.08921692,Indoor,Early,Turf Field,Indoor 6v6 Soccer,6v6 Indoor League,Unathletico Madrid,L,2,FC Sans Protection,W,4,No
+11/11/2025,4:30,PM,16:30:00,Cabot Center,42.33922949,-71.08921692,Indoor,Early,Turf Field,Indoor 6v6 Soccer,6v6 Indoor League,J Tyrer,W,3,M Harrington,L,1,No
+11/13/2025,7:30,PM,19:30:00,Cabot Center,42.33922949,-71.08921692,Indoor,Late,Turf Field,Indoor 6v6 Soccer,6v6 Indoor League,L Salemo,L,1,A Szerdy,W,3,No
+11/13/2025,9:00,PM,21:00:00,Cabot Center,42.33922949,-71.08921692,Indoor,Late,Turf Field,Indoor 6v6 Soccer,6v6 Indoor League,Z Jiang,L,1,B Pearlman,W,6,No
+11/13/2025,9:45,PM,21:45:00,Cabot Center,42.33922949,-71.08921692,Indoor,Late,Turf Field,Indoor 6v6 Soccer,6v6 Indoor League,J Thorley,DoubleLoss,0,elite heat soccer,DoubleLoss,0,Yes
+11/13/2025,11:15,PM,23:15:00,Cabot Center,42.33922949,-71.08921692,Indoor,Late,Turf Field,Indoor 6v6 Soccer,6v6 Indoor League,Oozma Kappa FC,L,0,A Kashiri,W,4,No
+11/14/2025,9:00,PM,21:00:00,Cabot Center,42.33922949,-71.08921692,Indoor,Late,Turf Field,Cricket League,Friday Night Indoor League,K Vora,L,36,A Gambhir,W,52,No
+11/15/2025,6:00,PM,18:00:00,Cabot Center,42.33922949,-71.08921692,Indoor,Late,Turf Field,Indoor 6v6 Soccer,6v6 Indoor League,A Demircan,L,0,Z Karousos,W,3,Yes
+11/15/2025,7:30,PM,19:30:00,Cabot Center,42.33922949,-71.08921692,Indoor,Late,Turf Field,Indoor 6v6 Soccer,6v6 Indoor League,No Name FC,W,3,WinnaStayOn,L,0,Yes
+11/15/2025,7:30,PM,19:30:00,Cabot Center,42.33922949,-71.08921692,Indoor,Late,Turf Field,Indoor 6v6 Soccer,6v6 Indoor League,The Maguires,L,0,Last Dance,W,3,Yes
+11/15/2025,1:00,PM,13:00:00,Cabot Center,42.33922949,-71.08921692,Indoor,Early,Turf Field,Indoor 6v6 Soccer,6v6 Indoor League,How I Megged Your Mother,DoubleLoss,0,S Clock,DoubleLoss,0,Yes
+11/18/2025,4:00,PM,16:00:00,Cabot Center,42.33922949,-71.08921692,Indoor,Early,Turf Field,Indoor 6v6 Soccer,6v6 Indoor League,Z Jiang,L,1,J Monsen,W,3,No
+11/18/2025,4:00,PM,16:00:00,Cabot Center,42.33922949,-71.08921692,Indoor,Early,Turf Field,Indoor 6v6 Soccer,6v6 Indoor League,FC Sans Protection,W,3,Mack Attack,L,0,No
+11/18/2025,12:30,PM,12:30:00,Cabot Center,42.33922949,-71.08921692,Indoor,Early,Turf Field,Indoor 6v6 Soccer,6v6 Indoor League,J Tyrer,W,7,M Tafesse,L,6,No
+11/18/2025,11:00,PM,23:00:00,Cabot Center,42.33922949,-71.08921692,Indoor,Late,Turf Field,Indoor 6v6 Soccer,6v6 Indoor League,A Szerdy,W,5,M Harrington,L,1,No
+11/20/2025,10:30,PM,22:30:00,Cabot Center,42.33922949,-71.08921692,Indoor,Late,Turf Field,Indoor 6v6 Soccer,6v6 Indoor League,Kappa Sig,L,0,A Liew,W,3,No
+11/20/2025,6:00,PM,18:00:00,Cabot Center,42.33922949,-71.08921692,Indoor,Late,Turf Field,Indoor 6v6 Soccer,6v6 Indoor League,J Zhou,L,0,S Clock,W,3,No
+11/20/2025,6:00,PM,18:00:00,Cabot Center,42.33922949,-71.08921692,Indoor,Late,Turf Field,Indoor 6v6 Soccer,6v6 Indoor League,H Morcella,W,3,Last Dance,L,1,No
+11/20/2025,6:00,PM,18:00:00,Cabot Center,42.33922949,-71.08921692,Indoor,Late,Turf Field,Indoor 6v6 Soccer,6v6 Indoor League,B Pearlman,W,3,N Ferraro,L,0,No
+11/21/2025,7:00,PM,19:00:00,Cabot Center,42.33922949,-71.08921692,Indoor,Late,Turf Field,Cricket League,Friday Night Indoor League,A Gambhir,L,26,Chennai Sharks,W,30,No
+11/21/2025,9:45,PM,21:45:00,Cabot Center,42.33922949,-71.08921692,Indoor,Late,Turf Field,Cricket League,Friday Night Indoor League,K Vora,W,24,Men In Blue,L,21,No
+11/21/2025,9:45,PM,21:45:00,Cabot Center,42.33922949,-71.08921692,Indoor,Late,Turf Field,Cricket League,Friday Night Indoor League,Das and Co.,W,45,H shah,L,17,No
+11/22/2025,6:00,PM,18:00:00,Cabot Center,42.33922949,-71.08921692,Indoor,Late,Turf Field,Indoor 6v6 Soccer,6v6 Indoor League,A Kashiri,W,2,Oozma Kappa FC,L,0,No
+11/22/2025,9:00,PM,21:00:00,Cabot Center,42.33922949,-71.08921692,Indoor,Late,Turf Field,Indoor 6v6 Soccer,6v6 Indoor League,L Salemo,W,5,The Maguires,L,0,No
+11/22/2025,9:45,PM,21:45:00,Cabot Center,42.33922949,-71.08921692,Indoor,Late,Turf Field,Indoor 6v6 Soccer,6v6 Indoor League,J Kim,W,3,NU Club Esports,L,0,No
+11/22/2025,7:30,PM,19:30:00,Cabot Center,42.33922949,-71.08921692,Indoor,Late,Turf Field,Indoor 6v6 Soccer,6v6 Indoor League,No Name FC,W,3,elite heat soccer,L,0,No
+11/22/2025,9:00,PM,21:00:00,Cabot Center,42.33922949,-71.08921692,Indoor,Late,Turf Field,Indoor 6v6 Soccer,6v6 Indoor League,Z Karousos,L,3,A Ahuja,W,5,No
+11/22/2025,5:15,PM,17:15:00,Cabot Center,42.33922949,-71.08921692,Indoor,Early,Turf Field,Indoor 6v6 Soccer,6v6 Indoor League,Mccallus FC,W,4,S Sanchez,L,0,No
+11/22/2025,1:30,PM,13:30:00,Cabot Center,42.33922949,-71.08921692,Indoor,Early,Turf Field,Indoor 6v6 Soccer,6v6 Indoor League,Sunday Leaguers,W,7,Unathletico Madrid,L,0,No
+11/23/2025,3:30,PM,15:30:00,Cabot Center,42.33922949,-71.08921692,Indoor,Early,Turf Field,Indoor 6v6 Soccer,6v6 Indoor League,Red Djed Redemption,L,2,J Monsen,W,3,No
+11/23/2025,12:30,PM,12:30:00,Cabot Center,42.33922949,-71.08921692,Indoor,Early,Turf Field,Indoor 6v6 Soccer,6v6 Indoor League,A Szerdy,DoubleLoss,0,J Tyrer,DoubleLoss,0,No
+11/23/2025,1:30,PM,13:30:00,Cabot Center,42.33922949,-71.08921692,Indoor,Early,Turf Field,Indoor 6v6 Soccer,6v6 Indoor League,FC Sans Protection,W,3,H Morcella,L,1,No
+11/23/2025,6:00,PM,18:00:00,Cabot Center,42.33922949,-71.08921692,Indoor,Late,Turf Field,Indoor 6v6 Soccer,6v6 Indoor League,S Clock,L,0,B Pearlman,W,7,No
+11/23/2025,,,,Cabot Center,42.33922949,-71.08921692,Indoor,Late,Turf Field,Indoor 6v6 Soccer,6v6 Indoor League,A Liew,L,0,Mccallus FC,W,3,No
+11/23/2025,,,,Cabot Center,42.33922949,-71.08921692,Indoor,Late,Turf Field,Indoor 6v6 Soccer,6v6 Indoor League,A Ahuja,L,0,Sunday Leaguers,W,3,No
+11/23/2025,,,,Cabot Center,42.33922949,-71.08921692,Indoor,Late,Turf Field,Indoor 6v6 Soccer,6v6 Indoor League,J Kim,W,5,L Salemo,L,0,No
+9/14/2025,9:15,PM,21:15:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 2A,6v6 Flag Football,Open League,Run Ball!,L,0,R Turkel,W,15,Yes
+9/14/2025,8:30,PM,20:30:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 2A,6v6 Flag Football,Open League,Goon Squad,L,0,Frat Flickers,W,15,Yes
+9/14/2025,6:00,PM,18:00:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 2A,6v6 Flag Football,Open League,ABGs,W,15,No Fly List,L,0,Yes
+9/14/2025,4:00,PM,16:00:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Early,Carter Field 2A,6v6 Flag Football,Open League,M Cordingley,L,28,YSL,W,50,No
+9/14/2025,4:00,PM,16:00:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Early,Carter Field 2A,6v6 Flag Football,Open League,Boston DavyJackson,L,0,STL Slander,W,15,Yes
+9/14/2025,6:00,PM,18:00:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 2A,6v6 Flag Football,Open League,D Goetz,W,36,Oozma Kappa,L,6,No
+9/15/2025,7:45,PM,19:45:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 2A,6v6 Flag Football,Open League,Four Verts,W,15,N Gold,L,0,No
+9/15/2025,11:45,AM,11:45:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Early,Carter Field 1C,Spikeball,Monday League - 7:30pm - 10:00pm,J O'Rourke,W,2,R Veturi,L,0,Yes
+9/15/2025,10:30,PM,22:30:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 1D,Spikeball,Monday League - 7:30pm - 10:00pm,J Lamoureux,DoubleLoss,0,D O'Shea & J Barbin,DoubleLoss,0,Yes
+9/15/2025,5:00,PM,17:00:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Early,Carter Field 1C,Spikeball,Monday League - 7:30pm - 10:00pm,A Jain,W,2,G Karsant,L,0,Yes
+9/17/2025,6:00,PM,18:00:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 2A,6v6 Flag Football,Open League,G Pace,W,15,Survive the Endzone,L,0,No
+9/17/2025,6:00,PM,18:00:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 1C,Spikeball,Wednesday League - 7:30pm - 10:00pm,J Vasquez,L,0,Y Nalluri,W,2,Yes
+9/17/2025,11:15,PM,23:15:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 1D,Spikeball,Wednesday League - 7:30pm - 10:00pm,E Bisson,L,0,A Zeng,W,2,Yes
+9/17/2025,11:15,PM,23:15:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 2A,6v6 Flag Football,Open League,A Sarkissian,W,52,R Reddy,L,21,No
+9/21/2025,10:00,PM,22:00:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 2A,6v6 Flag Football,Open League,Ellis's Goonsquad,L,0,D Murphy,W,15,No
+9/21/2025,6:00,PM,18:00:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 2A,6v6 Flag Football,Open League,N Tok,W,15,Rho Pi Gamma,L,0,Yes
+9/21/2025,12:00,PM,12:00:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Early,Carter Field 2A,6v6 Flag Football,Open League,The 115,W,15,ooz,L,0,Yes
+9/21/2025,1:00,PM,13:00:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Early,Carter Field 2A,6v6 Flag Football,Open League,R Genauer,W,15,J Fukuda,L,0,Yes
+9/21/2025,12:00,PM,12:00:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Early,Carter Field 2A,6v6 Flag Football,Open League,N Brown,L,18,S Gioffre,W,45,No
+9/21/2025,1:00,PM,13:00:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Early,Carter Field 2A,6v6 Flag Football,Open League,Joint TortVinny's,W,15,P Roig,L,0,Yes
+9/22/2025,2:00,PM,14:00:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Early,Carter Field 2A,6v6 Flag Football,Open League,Oozma Kappa,L,6,YSL,W,34,No
+9/22/2025,6:00,PM,18:00:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 1C,Spikeball,Monday League - 7:30pm - 10:00pm,R Veturi,W,2,D O'Shea & J Barbin,L,0,No
+9/22/2025,6:00,PM,18:00:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 1D,Spikeball,Monday League - 7:30pm - 10:00pm,J Lamoureux,W,2,G Karsant,L,0,No
+9/22/2025,1:00,PM,13:00:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Early,Carter Field 1C,Spikeball,Monday League - 7:30pm - 10:00pm,A Jain,L,0,J O'Connell,W,2,No
+9/22/2025,6:00,PM,18:00:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 2A,6v6 Flag Football,Open League,D Goetz,W,56,STL Slander,L,41,No
+9/24/2025,7:45,PM,19:45:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 2A,6v6 Flag Football,Open League,G Pace,W,15,No Fly List,L,0,Yes
+9/24/2025,9:00,PM,21:00:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 1C,Spikeball,Wednesday League - 7:30pm - 10:00pm,J Vasquez,W,2,E Bisson,L,0,Yes
+9/24/2025,9:00,PM,21:00:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 2A,6v6 Flag Football,Open League,Goon Squad,W,15,N Gold,L,0,Yes
+9/24/2025,11:15,PM,23:15:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 1D,Spikeball,Wednesday League - 7:30pm - 10:00pm,A Zeng,W,2,Y Nalluri,L,1,No
+9/28/2025,9:45,PM,21:45:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 2A,6v6 Flag Football,Open League,Ellis's Goonsquad,L,0,ooz,W,15,No
+9/28/2025,9:45,PM,21:45:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 2A,6v6 Flag Football,Open League,Boston DavyJackson,L,0,D Murphy,W,15,Yes
+9/28/2025,11:15,PM,23:15:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 2A,6v6 Flag Football,Open League,M Cordingley,W,15,R Reddy,L,0,Yes
+9/28/2025,11:15,PM,23:15:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 2A,6v6 Flag Football,Open League,Run Ball!,L,0,E Greenhouse,W,15,Yes
+9/28/2025,5:15,PM,17:15:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Early,Carter Field 2A,6v6 Flag Football,Open League,Four Verts,L,20,S Gioffre,W,38,No
+9/28/2025,7:30,PM,19:30:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 2A,6v6 Flag Football,Open League,ABGs,W,15,J Fukuda,L,0,Yes
+9/29/2025,8:45,PM,20:45:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 2A,6v6 Flag Football,Open League,R Genauer,W,15,P Roig,L,0,Yes
+9/29/2025,2:00,PM,14:00:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Early,Carter Field 1C,Spikeball,Monday League - 7:30pm - 10:00pm,R Veturi,W,2,G Karsant,L,0,Yes
+9/29/2025,3:00,PM,15:00:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Early,Carter Field 1D,Spikeball,Monday League - 7:30pm - 10:00pm,J O'Rourke,W,2,J O'Connell,L,0,No
+9/29/2025,8:45,PM,20:45:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 1C,Spikeball,Monday League - 7:30pm - 10:00pm,A Jain,W,2,J Lamoureux,L,0,Yes
+9/29/2025,7:45,PM,19:45:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 2A,6v6 Flag Football,Open League,Joint TortVinny's,W,33,R Turkel,L,21,No
+10/1/2025,8:00,PM,20:00:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 1D,Spikeball,Wednesday League - 7:30pm - 10:00pm,Y Nalluri,W,2,E Bisson,L,0,No
+10/1/2025,10:00,PM,22:00:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 2A,6v6 Flag Football,Open League,The 115,W,30,Frat Flickers,L,15,No
+10/1/2025,10:30,PM,22:30:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 1C,Spikeball,Wednesday League - 7:30pm - 10:00pm,J Vasquez,W,2,A Zeng,L,0,No
+10/1/2025,10:30,PM,22:30:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 2A,6v6 Flag Football,Open League,N Tok,W,30,Survive the Endzone,L,22,No
+10/5/2025,8:15,PM,20:15:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 2A,6v6 Flag Football,Open League,N Brown,W,15,E Greenhouse,L,0,No
+10/5/2025,8:15,PM,20:15:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 2A,6v6 Flag Football,Open League,A Sarkissian,W,58,Rho Pi Gamma,L,36,No
+10/6/2025,7:30,PM,19:30:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 1C,Spikeball,Monday League - 7:30pm - 10:00pm,A Jain,W,2,J O'Rourke,L,1,No
+10/6/2025,9:00,PM,21:00:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 1D,Spikeball,Monday League - 7:30pm - 10:00pm,R Veturi,L,0,J Lamoureux,W,0,Yes
+10/6/2025,7:30,PM,19:30:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 1C,Spikeball,Monday League - 7:30pm - 10:00pm,D O'Shea & J Barbin,L,0,J O'Connell,W,2,Yes
+10/8/2025,6:00,PM,18:00:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 2A,6v6 Flag Football,Open League,The 115,W,30,Oozma Kappa,L,0,No
+10/8/2025,10:00,PM,22:00:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 2A,6v6 Flag Football,Open League,ooz,L,0,STL Slander,W,15,Yes
+10/13/2025,8:30,PM,20:30:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 1D,Spikeball,Monday League - 7:30pm - 10:00pm,G Karsant,L,0,J O'Connell,W,2,No
+10/15/2025,11:00,AM,11:00:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Early,Carter Field 2A,6v6 Flag Football,Open League,R Turkel,W,45,Survive the Endzone,L,15,No
+10/15/2025,11:45,AM,11:45:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Early,Carter Field 2A,6v6 Flag Football,Open League,E Greenhouse,L,19,N Brown,W,34,No
+10/19/2025,8:00,PM,20:00:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 2A,6v6 Flag Football,Open League,Joint TortVinny's,W,15,R Reddy,L,0,Yes
+10/19/2025,6:00,PM,18:00:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 2A,6v6 Flag Football,Open League,ABGs,L,0,R Turkel,W,33,No
+10/19/2025,6:00,PM,18:00:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 2A,6v6 Flag Football,Open League,S Gioffre,W,32,N Brown,L,26,No
+10/19/2025,10:00,PM,22:00:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 2A,6v6 Flag Football,Open League,Frat Flickers,L,0,M Cordingley,W,15,Yes
+10/19/2025,6:00,PM,18:00:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 2A,6v6 Flag Football,Open League,N Tok,W,15,Rho Pi Gamma,L,0,Yes
+10/19/2025,4:00,PM,16:00:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Early,Carter Field 2A,6v6 Flag Football,Open League,Goon Squad,L,0,Four Verts,W,15,Yes
+10/20/2025,8:15,PM,20:15:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 2A,6v6 Flag Football,Open League,R Genauer,DoubleLoss,0,The 115,DoubleLoss,0,Yes
+10/20/2025,9:00,PM,21:00:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 2A,6v6 Flag Football,Open League,A Sarkissian,W,49,STL Slander,L,16,No
+10/20/2025,11:15,PM,23:15:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 1C,Spikeball,Monday League - 7:30pm - 10:00pm,D O'Shea & J Barbin,L,0,J O'Rourke,W,2,Yes
+10/22/2025,6:45,PM,18:45:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 2A,6v6 Flag Football,Open League,YSL,W,15,Four Verts,L,0,Yes
+10/22/2025,11:00,AM,11:00:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Early,Carter Field 2A,6v6 Flag Football,Open League,G Pace,L,14,Joint TortVinny's,W,44,No
+10/26/2025,10:30,PM,22:30:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 2A,6v6 Flag Football,Open League,S Gioffre,L,39,R Turkel,W,45,No
+10/26/2025,7:30,PM,19:30:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 2A,6v6 Flag Football,Open League,D Murphy,W,37,N Tok,L,6,No
+10/26/2025,7:30,PM,19:30:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 2A,6v6 Flag Football,Open League,D Goetz,W,30,M Cordingley,L,22,No
+10/27/2025,5:15,PM,17:15:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Early,Carter Field 2A,6v6 Flag Football,Open League,YSL,L,24,Joint TortVinny's,W,33,No
+10/27/2025,10:30,PM,22:30:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 2A,6v6 Flag Football,Open League,D Goetz,W,20,D Murphy,L,19,No
+10/27/2025,6:45,PM,18:45:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 1C,Spikeball,Monday League - 7:30pm - 10:00pm,J O'Connell,W,2,A Jain,L,0,No
+10/29/2025,4:00,PM,16:00:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Early,Carter Field 1A,11v11 Soccer League,11v11 Outdoor Open Soccer League,N Morali,W,4,Z Karousos,L,1,No
+10/29/2025,6:00,PM,18:00:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 2A,6v6 Flag Football,Open League,A Sarkissian,W,14,R Turkel,L,12,No
+10/29/2025,2:00,PM,14:00:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Early,Carter Field 2A,6v6 Flag Football,Open League,Joint TortVinny's,W,37,D Goetz,L,31,No
+10/29/2025,11:45,AM,11:45:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Early,Carter Field 1C,Spikeball,Wednesday League - 7:30pm - 10:00pm,J Vasquez,W,2,A Zeng,L,0,Yes
+11/1/2025,10:00,PM,22:00:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 2A,11v11 Soccer League,11v11 Outdoor Open Soccer League,DTD,Tied,1,Shaolin Soccer,Tied,1,No
+11/1/2025,6:00,PM,18:00:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 2A,11v11 Soccer League,11v11 Outdoor Open Soccer League,EXP Learning United,DoubleLoss,0,Imperinho,DoubleLoss,0,No
+11/1/2025,10:00,PM,22:00:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 2A,11v11 Soccer League,11v11 Outdoor Open Soccer League,D Terpinas,W,5,Sunny Innit,L,1,No
+11/2/2025,11:00,PM,23:00:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 2A,11v11 Soccer League,11v11 Outdoor Open Soccer League,Eliteham,L,1,TÃ¼rks No Caicos,W,2,No
+11/2/2025,6:00,PM,18:00:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 2A,11v11 Soccer League,11v11 Outdoor Open Soccer League,K Yoshida,W,3,El coach no juega,L,0,Yes
+11/2/2025,10:00,PM,22:00:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 2A,6v6 Flag Football,Open League,A Sarkissian,W,28,Joint TortVinny's,L,12,No
+11/2/2025,11:00,PM,23:00:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 2A,11v11 Soccer League,11v11 Outdoor Open Soccer League,Tekkers CF,W,2,J Fukuda,L,0,No
+11/2/2025,11:00,PM,23:00:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 2A,11v11 Soccer League,11v11 Outdoor Open Soccer League,King Tut F.C.,W,3,N Morali,L,0,Yes
+11/2/2025,9:00,PM,21:00:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 2A,11v11 Soccer League,11v11 Outdoor Open Soccer League,D Flannery,W,3,PCPNick'sNuGooGoonerCrew,L,0,Yes
+11/3/2025,9:00,PM,21:00:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 1C,Spikeball,Monday League - 7:30pm - 10:00pm,J O'Rourke,W,2,J O'Connell,L,1,No
+11/3/2025,6:00,PM,18:00:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 1A,11v11 Soccer League,11v11 Outdoor Open Soccer League,EXP Learning United,L,0,Z Karousos,W,5,No
+11/3/2025,1:45,PM,13:45:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Early,Carter Field 1A,11v11 Soccer League,11v11 Outdoor Open Soccer League,D Terpinas,W,3,J Siglin,L,0,No
+11/5/2025,8:15,PM,20:15:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 1C,Spikeball,Wednesday League - 7:30pm - 10:00pm,Y Nalluri,L,0,J Vasquez,W,2,No
+11/5/2025,6:45,PM,18:45:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 1A,11v11 Soccer League,11v11 Outdoor Open Soccer League,D Flannery,W,8,The Noxious Foxes,L,1,No
+11/5/2025,8:15,PM,20:15:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 1A,11v11 Soccer League,11v11 Outdoor Open Soccer League,DTD,W,3,Unathletico Madrid,L,2,No
+11/7/2025,8:15,PM,20:15:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 1A,11v11 Soccer League,11v11 Outdoor Open Soccer League,El coach no juega,L,0,PCPNick'sNuGooGoonerCrew,W,3,Yes
+11/7/2025,9:45,PM,21:45:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 1A,11v11 Soccer League,11v11 Outdoor Open Soccer League,K Yoshida,Tied,1,Shaolin Soccer,Tied,1,No
+11/7/2025,8:15,PM,20:15:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 1A,11v11 Soccer League,11v11 Outdoor Open Soccer League,J Fukuda,L,0,Imperinho,W,7,No
+11/7/2025,9:00,PM,21:00:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 1A,11v11 Soccer League,11v11 Outdoor Open Soccer League,Tekkers CF,W,1,Sunny Innit,L,0,No
+11/8/2025,7:00,PM,19:00:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 1A,11v11 Soccer League,11v11 Outdoor Open Soccer League,EXP Learning United,W,3,N Morali,L,0,Yes
+11/8/2025,7:45,PM,19:45:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 1A,11v11 Soccer League,11v11 Outdoor Open Soccer League,Eliteham,W,3,DTD,L,0,Yes
+11/8/2025,8:30,PM,20:30:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 1A,11v11 Soccer League,11v11 Outdoor Open Soccer League,King Tut F.C.,L,2,D Terpinas,W,3,No
+11/9/2025,7:00,PM,19:00:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 2A,11v11 Soccer League,11v11 Outdoor Open Soccer League,El coach no juega,L,0,The Noxious Foxes,W,3,Yes
+11/9/2025,10:00,PM,22:00:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 2A,11v11 Soccer League,11v11 Outdoor Open Soccer League,J Fukuda,L,0,Z Karousos,W,3,Yes
+11/9/2025,11:00,PM,23:00:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 2A,11v11 Soccer League,11v11 Outdoor Open Soccer League,Tekkers CF,W,3,J Siglin,L,0,Yes
+11/9/2025,8:00,PM,20:00:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 2A,11v11 Soccer League,11v11 Outdoor Open Soccer League,D Flannery,Tied,0,TÃ¼rks No Caicos,Tied,0,No
+11/10/2025,8:15,PM,20:15:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 1A,11v11 Soccer League,11v11 Outdoor Open Soccer League,King Tut F.C.,W,3,J Siglin,L,1,No
+11/10/2025,7:00,PM,19:00:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 1A,11v11 Soccer League,11v11 Outdoor Open Soccer League,PCPNick'sNuGooGoonerCrew,L,0,Shaolin Soccer,W,3,Yes
+11/12/2025,7:30,PM,19:30:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 1A,11v11 Soccer League,11v11 Outdoor Open Soccer League,TÃ¼rks No Caicos,W,7,The Noxious Foxes,L,0,No
+11/12/2025,4:00,PM,16:00:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Early,Carter Field 1A,11v11 Soccer League,11v11 Outdoor Open Soccer League,Eliteham,L,0,Unathletico Madrid,W,1,No
+11/14/2025,7:30,PM,19:30:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 1A,11v11 Soccer League,11v11 Outdoor Open Soccer League,K Yoshida,W,5,Unathletico Madrid,L,0,No
+11/14/2025,7:30,PM,19:30:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 1A,11v11 Soccer League,11v11 Outdoor Open Soccer League,Imperinho,Tied,3,Sunny Innit,Tied,3,No
+11/15/2025,8:15,PM,20:15:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 1A,11v11 Soccer League,11v11 Outdoor Open Soccer League,K Yoshida,W,1,TÃ¼rks No Caicos,L,0,No
+11/15/2025,9:00,PM,21:00:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 1A,11v11 Soccer League,11v11 Outdoor Open Soccer League,Tekkers CF,L,0,D Terpinas,W,1,No
+11/16/2025,6:45,PM,18:45:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Late,Carter Field 1A,11v11 Soccer League,11v11 Outdoor Open Soccer League,D Flannery,W,3,K Yoshida,L,2,No
+11/19/2025,5:15,PM,17:15:00,Carter Fields,42.33909754,-71.0848415,Outdoor,Early,Carter Field 1A,11v11 Soccer League,11v11 Outdoor Open Soccer League,D Flannery,L,0,D Terpinas,W,2,No
+9/13/2025,6:45,PM,18:45:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2a,Badminton,Badminton Doubles,K Liang,W,2,Aero Voltrix,L,0,No
+9/13/2025,7:30,PM,19:30:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2c,Badminton,Badminton Doubles,o cronk,DoubleLoss,0,K Suzuki,DoubleLoss,0,Yes
+9/13/2025,8:15,PM,20:15:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2b,Badminton,Badminton Doubles,J Wang,L,0,T Li,W,2,No
+9/13/2025,9:00,PM,21:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2a,Badminton,Badminton Doubles,S Kuo,W,2,Titans,L,0,No
+9/13/2025,8:15,PM,20:15:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2b,Badminton,Badminton Doubles,P Saini,W,2,FERDA,L,0,No
+9/13/2025,8:15,PM,20:15:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2a,Badminton,Badminton Doubles,Y Ueki,W,2,Noelle and Fanyu,L,0,Yes
+9/13/2025,9:45,PM,21:45:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2c,Badminton,Badminton Doubles,T Manjunath,L,1,Z Ladkhan,W,2,No
+9/13/2025,9:45,PM,21:45:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2c,Badminton,Badminton Doubles,Vanguard,W,2,A Liew,L,1,No
+9/13/2025,10:30,PM,22:30:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2a,Badminton,Badminton Doubles,J Monsen,L,0,P Sundareswara...,W,2,No
+9/13/2025,6:45,PM,18:45:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2c,Badminton,Badminton Doubles,M Sharma,W,2,H Jiang,L,0,No
+9/13/2025,7:30,PM,19:30:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2b,Badminton,Badminton Doubles,Women's Gymnastics,W,2,N Gupta,L,0,Yes
+9/13/2025,10:30,PM,22:30:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2a,Badminton,Badminton Doubles,M Vanguri,W,2,F Bischoff,L,0,No
+9/13/2025,11:15,PM,23:15:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2c,Badminton,Badminton Doubles,Racket Raccoons,W,2,A Wu,L,0,Yes
+9/13/2025,8:30,PM,20:30:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2b,Badminton,Badminton Doubles,Kajamin,L,0,S Karnik,W,2,No
+9/13/2025,7:45,PM,19:45:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2b,Badminton,Badminton Doubles,D Patel,L,0,R Bhakta,W,2,Yes
+9/15/2025,2:00,PM,14:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 3,4v4 Volleyball,All Gender League,m kothari,W,2,S He,L,0,Yes
+9/15/2025,9:00,PM,21:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,J Olosky,L,0,J Jackson,W,2,No
+9/15/2025,6:00,PM,18:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,A Zhang,W,2,N Dungca,L,1,No
+9/15/2025,8:15,PM,20:15:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,I Kaplanovich,W,2,A Weinberg,L,0,No
+9/16/2025,6:45,PM,18:45:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,J Olosky,L,0,K Pine,W,2,Yes
+9/16/2025,7:45,PM,19:45:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,I Lin,W,2,G Lee,L,0,No
+9/16/2025,10:00,PM,22:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,I Kaplanovich,W,2,m kothari,L,1,No
+9/16/2025,7:00,PM,19:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,I Chee,L,0,L Collins,W,2,No
+9/16/2025,9:00,PM,21:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,I Garcia Pinto...,L,0,B Hsu,W,2,No
+9/17/2025,9:00,PM,21:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,J Zachariah,W,2,D Patel,L,0,No
+9/17/2025,10:30,PM,22:30:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,JamesZZ,L,0,B Chung,W,2,Yes
+9/17/2025,11:15,PM,23:15:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,Burger's Burgers,W,2,B Zeng,L,0,No
+9/17/2025,11:15,PM,23:15:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,J Chie,W,2,L Rollo,L,0,No
+9/18/2025,9:15,PM,21:15:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,J Zachariah,W,2,T Yu,L,0,Yes
+9/18/2025,8:30,PM,20:30:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,K Sung,W,2,L Collins,L,1,No
+9/18/2025,7:45,PM,19:45:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,I Lin,W,2,A Shinde,L,0,No
+9/18/2025,8:30,PM,20:30:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,C Fourie,W,2,M Mahajan,L,0,No
+9/18/2025,7:00,PM,19:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,H Schreiman,L,0,B Trott,W,2,No
+9/20/2025,7:45,PM,19:45:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2c,Badminton,Badminton Doubles,M Vanguri,L,0,S Karnik,W,2,No
+9/20/2025,7:00,PM,19:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2a,Badminton,Badminton Doubles,P Saini,L,0,Z Ladkhan,W,2,No
+9/20/2025,9:15,PM,21:15:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2c,Badminton,Badminton Doubles,Y Ueki,L,0,R Bhakta,W,2,No
+9/20/2025,7:00,PM,19:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2b,Badminton,Badminton Doubles,T Manjunath,L,0,P Sundareswara...,W,2,No
+9/20/2025,7:00,PM,19:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2a,Badminton,Badminton Doubles,D Patel,W,2,H Jiang,L,0,No
+9/20/2025,11:00,PM,23:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2c,Badminton,Badminton Doubles,J Monsen,L,0,N Gupta,W,2,Yes
+9/20/2025,6:00,PM,18:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2b,Badminton,Badminton Doubles,M Sharma,W,2,F Bischoff,L,0,Yes
+9/20/2025,6:00,PM,18:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2b,Badminton,Badminton Doubles,Kajamin,L,0,Aero Voltrix,W,2,Yes
+9/20/2025,7:00,PM,19:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2b,Badminton,Badminton Doubles,J Wang,L,0,A Liew,W,2,No
+9/20/2025,10:00,PM,22:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2a,Badminton,Badminton Doubles,o cronk,L,0,Titans,W,2,No
+9/20/2025,11:00,PM,23:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2c,Badminton,Badminton Doubles,Y Markose,W,2,Y Luo,L,0,No
+9/20/2025,11:00,PM,23:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2b,Badminton,Badminton Doubles,J Kothari,W,2,A Yang,L,0,No
+9/20/2025,11:00,PM,23:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2a,Badminton,Badminton Doubles,Banana,W,2,T Wong,L,0,Yes
+9/20/2025,6:00,PM,18:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2a,Badminton,Badminton Doubles,Women's Gymnastics,L,0,A Wu,W,2,Yes
+9/20/2025,6:00,PM,18:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2c,Badminton,Badminton Doubles,K Liang,L,0,D Vijay,W,2,No
+9/22/2025,7:30,PM,19:30:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,E McConnell,L,0,L Stanhope,W,2,Yes
+9/22/2025,4:00,PM,16:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 3,4v4 Volleyball,All Gender League,Goon Squad,W,2,J Oâ€™Keefe,L,1,No
+9/22/2025,10:00,PM,22:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,E Wenzinger,W,2,J Fukuda,L,0,No
+9/22/2025,11:00,PM,23:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,M Tran,W,2,S Dong,L,1,No
+9/23/2025,8:30,PM,20:30:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,J Chie,W,2,Â¯\_(ãƒ„)_/Â¯,L,0,No
+9/23/2025,8:30,PM,20:30:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,Griddy Gang,W,2,Practice Safe Sets,L,0,No
+9/23/2025,10:00,PM,22:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,Dosa and Dumplings,W,2,L Tom,L,0,No
+9/23/2025,11:00,PM,23:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,The Stetson Pack,W,2,Â¯\_(ãƒ„)_/Â¯,L,0,No
+9/23/2025,11:00,PM,23:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,Tricky Tremonts,DoubleLoss,0,N Gupta,DoubleLoss,0,Yes
+9/24/2025,5:00,PM,17:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 3,4v4 Volleyball,Open League,B Cordes,L,1,C Im,W,2,No
+9/24/2025,7:45,PM,19:45:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,Dosa and Dumplings,L,0,AA AA AA AA AA,W,2,No
+9/24/2025,8:45,PM,20:45:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,C Becker,L,0,T Min Khant,W,2,No
+9/24/2025,4:00,PM,16:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 3,4v4 Volleyball,Open League,J Qian,W,2,V Yoo,L,0,No
+9/24/2025,6:00,PM,18:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,Elite Heat volleyball,L,0,H Saito,W,2,No
+9/24/2025,10:30,PM,22:30:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,VolleyAllDay,L,0,AA AA AA AA AA,W,2,No
+9/24/2025,6:45,PM,18:45:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,Z Weiss,W,2,Phide,L,0,Yes
+9/24/2025,9:00,PM,21:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,B Verheijen,W,2,A B,L,0,No
+9/24/2025,9:45,PM,21:45:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,S Chen,W,2,V Yoo,L,0,Yes
+9/25/2025,7:30,PM,19:30:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,Frisky Huskies,L,0,L Zhao,W,2,No
+9/25/2025,9:45,PM,21:45:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,I Moody,L,0,A Sun,W,2,No
+9/25/2025,6:00,PM,18:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,V Jones,W,2,A Skrabacz,L,0,No
+9/25/2025,8:15,PM,20:15:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,Black Lives Matter,W,2,E Berenfeld,L,0,No
+9/25/2025,9:45,PM,21:45:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,OGs,W,2,NUSAACS,L,0,No
+9/25/2025,11:15,PM,23:15:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,N Lee,L,0,PLP,W,2,No
+9/25/2025,11:15,PM,23:15:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,A Caceres,L,0,G Nestares,W,2,Yes
+9/25/2025,5:15,PM,17:15:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 3,4v4 Volleyball,Open League,T Velaga,W,2,A Solankhi,L,0,No
+9/25/2025,7:30,PM,19:30:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,J Ortega,L,0,J Leite,W,2,No
+9/27/2025,9:00,PM,21:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2a,Badminton,Badminton Doubles,Racket Raccoons,W,2,D Vijay,L,0,No
+9/27/2025,6:00,PM,18:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2c,Badminton,Badminton Doubles,Y Markose,W,2,T Wong,L,0,Yes
+9/27/2025,8:15,PM,20:15:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2b,Badminton,Badminton Doubles,Banana,W,2,T Li,L,0,Yes
+9/27/2025,9:45,PM,21:45:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2c,Badminton,Badminton Doubles,S Kuo,W,2,FERDA,L,0,No
+9/27/2025,11:15,PM,23:15:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2b,Badminton,Badminton Doubles,Vanguard,W,2,Noelle and Fanyu,L,0,Yes
+9/27/2025,5:15,PM,17:15:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 2a,Badminton,Badminton Doubles,Y Luo,W,2,A Yang,L,0,Yes
+9/27/2025,8:15,PM,20:15:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2a,Badminton,Badminton Doubles,J Kothari,W,2,K Suzuki,L,0,Yes
+9/29/2025,2:00,PM,14:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 3,4v4 Volleyball,Open League,D Daluise,W,2,Washed Up,L,0,Yes
+9/29/2025,3:00,PM,15:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 3,4v4 Volleyball,Open League,Hawluchas,W,2,K Lou,L,0,No
+9/29/2025,5:00,PM,17:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 3,4v4 Volleyball,Open League,N Kannalath,L,0,R Alejandrino,W,2,No
+9/29/2025,8:45,PM,20:45:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,Avengers,W,2,M Tums,L,0,No
+9/30/2025,1:15,PM,13:15:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 3,4v4 Volleyball,Open League,I Kaplanovich,L,1,A Akbari,W,2,No
+9/30/2025,12:30,PM,12:30:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 3,4v4 Volleyball,All Gender League,T Li,W,2,B Brovold,L,0,Yes
+9/30/2025,12:30,PM,12:30:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 3,4v4 Volleyball,Open League,The Jolly Good Fellows,W,2,K Rooney,L,1,No
+9/30/2025,1:15,PM,13:15:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 3,4v4 Volleyball,All Gender League,A Rabinovich,L,1,C Dean,W,2,No
+9/30/2025,2:00,PM,14:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 3,4v4 Volleyball,Open League,S Tudor,W,2,C Duncan,L,0,No
+10/1/2025,1:15,PM,13:15:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 3,4v4 Volleyball,All Gender League,Avengers,W,2,Y Thingalore M...,L,0,No
+10/1/2025,7:40,PM,19:40:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,J Clark,L,0,D Daluise,W,2,No
+10/1/2025,8:20,PM,20:20:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,S Lam,W,2,volley balls,L,0,No
+10/1/2025,10:30,PM,22:30:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,Lucky Set,W,2,Boda Boys,L,0,No
+10/2/2025,9:00,PM,21:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,Burger's Burgers,W,2,G Lee,L,1,No
+10/2/2025,10:00,PM,22:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,I Kaplanovich,L,0,N Lee,W,2,No
+10/2/2025,10:00,PM,22:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,J Olosky,L,1,m kothari,W,2,No
+10/2/2025,12:30,PM,12:30:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 3,4v4 Volleyball,All Gender League,S Tudor,L,1,Predators,W,2,No
+10/2/2025,2:00,PM,14:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 3,4v4 Volleyball,Open League,I Garcia Pinto...,L,0,J Jackson,W,2,No
+10/4/2025,6:00,PM,18:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2b,Badminton,Badminton Doubles,S Kuo,W,2,Y Ueki,L,0,No
+10/4/2025,11:00,PM,23:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2b,Badminton,Badminton Doubles,A Liew,L,0,T Li,W,2,No
+10/4/2025,11:00,PM,23:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2c,Badminton,Badminton Doubles,R Bhakta,W,2,F Bischoff,L,0,Yes
+10/4/2025,9:00,PM,21:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2b,Badminton,Badminton Doubles,A Wu,L,0,P Saini,W,2,No
+10/4/2025,1:00,PM,13:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 2b,Badminton,Badminton Doubles,P Sundareswara...,W,,FERDA,L,,Yes
+10/4/2025,2:00,PM,14:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 2c,Badminton,Badminton Doubles,Y Markose,W,2,Y Luo,L,0,No
+10/4/2025,2:00,PM,14:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 2b,Badminton,Badminton Doubles,Banana,W,2,Kajamin,L,0,Yes
+10/4/2025,3:00,PM,15:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 2c,Badminton,Badminton Doubles,D Vijay,L,0,K Liang,W,2,No
+10/4/2025,8:00,PM,20:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2a,Badminton,Badminton Singles,P Sundareswara...,W,2,L Chen,L,0,No
+10/4/2025,6:00,PM,18:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2a,Badminton,Badminton Singles,J Wang,W,2,r cheung,L,0,No
+10/4/2025,10:00,PM,22:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2c,Badminton,Badminton Singles,Lokesh,W,2,A Liew,L,1,No
+10/4/2025,11:00,PM,23:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2a,Badminton,Badminton Singles,Karthik S,W,2,M Balakumar,L,0,No
+10/4/2025,11:00,PM,23:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2a,Badminton,Badminton Singles,T Thomson,L,1,Y Luo,W,2,No
+10/4/2025,11:00,PM,23:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2a,Badminton,Badminton Singles,Minion,L,0,M Sharma,W,2,No
+10/4/2025,6:00,PM,18:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2c,Badminton,Badminton Singles,Y Long,W,2,K Xia,L,0,No
+10/6/2025,8:15,PM,20:15:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,C Fourie,L,0,B Hsu,W,2,No
+10/6/2025,6:00,PM,18:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,A Zhang,L,0,A Weinberg,W,2,No
+10/6/2025,6:00,PM,18:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,I Chee,W,2,N Dungca,L,0,Yes
+10/6/2025,7:00,PM,19:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,J Zachariah,W,2,B Zeng,L,0,No
+10/7/2025,6:00,PM,18:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,E Wenzinger,W,2,S Dong,L,0,No
+10/7/2025,11:00,PM,23:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,K Sung,W,2,D Patel,L,0,No
+10/7/2025,6:00,PM,18:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,J Olosky,W,2,L Collins,L,1,No
+10/7/2025,10:00,PM,22:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,J Chie,W,2,S He,L,0,No
+10/7/2025,6:00,PM,18:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,M Tran,W,2,M Mahajan,L,0,No
+10/8/2025,10:00,PM,22:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,Tricky Tremonts,W,2,J Fukuda,L,0,Yes
+10/8/2025,6:00,PM,18:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,E McConnell,L,0,L Collins,W,2,Yes
+10/8/2025,10:00,PM,22:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,JamesZZ,L,0,K Pine,W,2,Yes
+10/8/2025,11:00,PM,23:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,I Lin,W,2,L Rollo,L,0,No
+10/8/2025,7:00,PM,19:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,5v5 Basketball,Open League,Brunson Burners,W,52,B Saterbak,L,40,No
+10/9/2025,5:00,PM,17:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 3,5v5 Basketball,Open League,Goon Squad,L,0,H Ng,W,15,Yes
+10/9/2025,6:00,PM,18:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,5v5 Basketball,Open League,Kool-Aid Jammers (Best 5th Grade Squad in the Nation),W,45,Fractions,L,15,No
+10/9/2025,7:00,PM,19:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,5v5 Basketball,Open League,S Safian,W,15,P Mitchell,L,0,Yes
+10/9/2025,2:00,PM,14:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 3,4v4 Volleyball,All Gender League,Goon Squad,W,2,T Yu,L,0,Yes
+10/9/2025,5:00,PM,17:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 3,4v4 Volleyball,Open League,J Qian,W,2,N Gupta,L,0,Yes
+10/9/2025,7:00,PM,19:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,J Chie,W,2,L Stanhope,L,0,No
+10/9/2025,7:45,PM,19:45:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,H Schreiman,W,2,B Chung,L,0,Yes
+10/9/2025,2:00,PM,14:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 3,4v4 Volleyball,All Gender League,J Zachariah,W,2,A Shinde,L,0,No
+10/11/2025,9:45,PM,21:45:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2c,Badminton,Badminton Doubles,Z Ladkhan,W,2,Titans,L,0,Yes
+10/11/2025,10:30,PM,22:30:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2b,Badminton,Badminton Doubles,Racket Raccoons,W,2,T Manjunath,L,0,Yes
+10/11/2025,10:30,PM,22:30:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2c,Badminton,Badminton Doubles,Aero Voltrix,W,2,N Gupta,L,0,Yes
+10/11/2025,11:15,PM,23:15:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2b,Badminton,Badminton Doubles,M Sharma,W,2,H Jiang,L,0,Yes
+10/11/2025,5:15,PM,17:15:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 2c,Badminton,Badminton Doubles,Vanguard,W,2,Women's Gymnastics,L,0,Yes
+10/11/2025,5:15,PM,17:15:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 2b,Badminton,Badminton Doubles,S Karnik,W,2,o cronk,L,0,No
+10/11/2025,6:00,PM,18:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2c,Badminton,Badminton Doubles,D Patel,L,0,M Vanguri,W,2,Yes
+10/11/2025,6:00,PM,18:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2a,Badminton,Badminton Singles,N Tadepalli,L,0,C Santhanam Su...,W,2,Yes
+10/11/2025,6:45,PM,18:45:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2a,Badminton,Badminton Singles,D Jiang,L,0,C Whitehouse,W,2,Yes
+10/11/2025,6:45,PM,18:45:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2a,Badminton,Badminton Singles,K Hong,L,0,A SK,W,2,No
+10/11/2025,7:30,PM,19:30:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2a,Badminton,Badminton Singles,J Zachariah,W,2,M Ambulkar,L,0,Yes
+10/11/2025,7:30,PM,19:30:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2c,Badminton,Badminton Singles,R Ng,L,0,K Duraisamy,W,2,Yes
+10/11/2025,8:15,PM,20:15:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2b,Badminton,Badminton Singles,G Ashokumar,L,0,Y Markose,W,2,No
+10/11/2025,8:15,PM,20:15:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2a,Badminton,Badminton Singles,M Vanguri,W,2,S Ganesan,L,0,Yes
+10/11/2025,5:15,PM,17:15:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 2b,Badminton,Badminton Doubles,J Kothari,W,2,J Wang,L,0,No
+10/13/2025,1:15,PM,13:15:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 3,4v4 Volleyball,Open League,B Cordes,L,0,T Min Khant,W,2,Yes
+10/13/2025,1:15,PM,13:15:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 3,4v4 Volleyball,Open League,Dosa and Dumplings,W,2,V Yoo,L,0,No
+10/13/2025,1:15,PM,13:15:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 3,4v4 Volleyball,All Gender League,The Stetson Pack,W,2,B Trott,L,1,No
+10/13/2025,2:00,PM,14:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 3,5v5 Basketball,Open League,D Terpinas,W,29,Marino MegaStars,L,28,No
+10/13/2025,2:00,PM,14:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 3,4v4 Volleyball,Open League,C Becker,L,0,Â¯\_(ãƒ„)_/Â¯,W,2,No
+10/13/2025,2:00,PM,14:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 3,5v5 Basketball,Open League,D Huang,L,0,LeSoldiers,W,15,Yes
+10/13/2025,11:00,AM,11:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 3,5v5 Basketball,Open League,S Cheek,W,30,J Gurewitz,L,17,No
+10/13/2025,8:30,PM,20:30:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,5v5 Basketball,Open League,N Chin,W,15,B Brown,L,0,Yes
+10/14/2025,11:00,PM,23:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,5v5 Basketball,Open League,M Mochalov,L,0,Predators,W,15,Yes
+10/14/2025,9:00,PM,21:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,5v5 Basketball,Open League,London Lob City,W,65,Stair Master Steppers,L,39,No
+10/14/2025,10:00,PM,22:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,5v5 Basketball,Open League,J Tang,W,78,C Kouspakain,L,48,No
+10/14/2025,11:00,PM,23:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,N Lee,W,2,A Solankhi,L,0,No
+10/14/2025,9:00,PM,21:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,Griddy Gang,W,2,Â¯\_(ãƒ„)_/Â¯,L,1,No
+10/14/2025,9:00,PM,21:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,S Chen,W,2,L Tom,L,1,No
+10/14/2025,6:00,PM,18:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,T Velaga,L,1,AA AA AA AA AA,W,2,No
+10/14/2025,10:00,PM,22:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,Dosa and Dumplings,W,2,J Oâ€™Keefe,L,0,No
+10/15/2025,6:00,PM,18:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,B Verheijen,W,2,Practice Safe Sets,L,0,No
+10/15/2025,6:00,PM,18:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,OGs,W,2,C Im,L,0,No
+10/15/2025,7:45,PM,19:45:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,Z Weiss,W,2,V Yoo,L,0,Yes
+10/15/2025,8:30,PM,20:30:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,VolleyAllDay,W,2,A B,L,0,Yes
+10/15/2025,9:00,PM,21:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,5v5 Basketball,Open League,Sesame Street,L,36,A Wang,W,56,No
+10/15/2025,10:00,PM,22:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,5v5 Basketball,Open League,The Dawgs,L,27,A Mitchell,W,54,Yes
+10/15/2025,9:00,PM,21:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,5v5 Basketball,Open League,Greek Freaks,L,40,Basketball Players,W,70,No
+10/15/2025,10:00,PM,22:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,5v5 Basketball,Open League,Tmont Papa,L,0,D Murphy,W,15,Yes
+10/16/2025,6:00,PM,18:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,5v5 Basketball,Open League,A Venkat,L,42,M Tian,W,48,No
+10/16/2025,7:30,PM,19:30:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,5v5 Basketball,Open League,G Waryas,L,29,irish spring green,W,48,No
+10/16/2025,6:00,PM,18:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,A Caceres,W,2,AA AA AA AA AA,L,0,Yes
+10/16/2025,6:45,PM,18:45:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,5v5 Basketball,Open League,J Kim,L,36,E Yang,W,37,No
+10/16/2025,7:30,PM,19:30:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,Lucky Set,W,2,R Alejandrino,L,0,Yes
+10/16/2025,1:00,PM,13:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 3,4v4 Volleyball,All Gender League,Elite Heat volleyball,L,0,Phide,W,2,No
+10/16/2025,7:00,PM,19:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,N Kannalath,W,2,PLP,L,1,No
+10/16/2025,8:00,PM,20:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,Avengers,W,2,NUSAACS,L,0,No
+10/18/2025,10:45,PM,22:45:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2c,Badminton,Badminton Doubles,Racket Raccoons,W,2,Z Ladkhan,L,0,No
+10/18/2025,11:15,PM,23:15:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2b,Badminton,Badminton Doubles,M Sharma,W,2,Aero Voltrix,L,0,No
+10/18/2025,11:15,PM,23:15:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2c,Badminton,Badminton Doubles,S Karnik,W,2,Vanguard,L,0,No
+10/18/2025,7:30,PM,19:30:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2b,Badminton,Badminton Doubles,J Kothari,L,0,M Vanguri,W,2,Yes
+10/18/2025,8:15,PM,20:15:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2c,Badminton,Badminton Doubles,R Bhakta,L,0,T Li,W,2,Yes
+10/18/2025,9:00,PM,21:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2b,Badminton,Badminton Doubles,P Sundareswara...,W,2,P Saini,L,0,No
+10/18/2025,7:30,PM,19:30:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2c,Badminton,Badminton Doubles,S Kuo,L,0,Y Markose,W,2,No
+10/18/2025,7:45,PM,19:45:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2a,Badminton,Badminton Singles,M Vanguri,W,2,L Chen,L,0,No
+10/18/2025,7:45,PM,19:45:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2a,Badminton,Badminton Singles,G Ashokumar,L,0,K Xia,W,2,No
+10/18/2025,7:45,PM,19:45:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2a,Badminton,Badminton Singles,Y Long,W,2,r cheung,L,0,Yes
+10/18/2025,8:30,PM,20:30:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2a,Badminton,Badminton Singles,Karthik S,L,0,M Sharma,W,2,No
+10/18/2025,7:45,PM,19:45:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2c,Badminton,Badminton Singles,P Sundareswara...,W,2,A Liew,L,0,No
+10/18/2025,8:00,PM,20:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2b,Badminton,Badminton Singles,T Manjunath,L,0,P Nguyen,W,2,Yes
+10/18/2025,9:00,PM,21:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2a,Badminton,Badminton Singles,A Jaiswal,L,0,D Nguyen,W,2,Yes
+10/18/2025,10:00,PM,22:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2b,Badminton,Badminton Doubles,Banana,W,2,K Liang,L,0,Yes
+10/20/2025,7:30,PM,19:30:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,D Daluise,L,0,K Lou,W,3,No
+10/20/2025,7:30,PM,19:30:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,V Jones,W,2,G Nestares,L,1,No
+10/20/2025,7:30,PM,19:30:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,J Ortega,L,0,H Saito,W,2,No
+10/20/2025,8:15,PM,20:15:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,S Tudor,W,2,M Tums,L,1,No
+10/20/2025,5:15,PM,17:15:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 3,5v5 Basketball,Open League,J Orlin,W,15,A Reddy,L,0,Yes
+10/20/2025,6:45,PM,18:45:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,5v5 Basketball,Open League,FTC Elite,L,0,C Lemmon,W,15,Yes
+10/20/2025,9:00,PM,21:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,5v5 Basketball,Open League,S Gioffre,W,40,J Marino,L,30,No
+10/20/2025,8:45,PM,20:45:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,5v5 Basketball,Open League,Tmont Papa,L,0,P Mitchell,W,15,Yes
+10/21/2025,8:00,PM,20:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,5v5 Basketball,Open League,Kool-Aid Jammers (Best 5th Grade Squad in the Nation),W,54,A Reddy,L,45,Yes
+10/21/2025,6:45,PM,18:45:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,5v5 Basketball,Open League,Brunson Burners,W,41,E Yang,L,28,No
+10/21/2025,7:30,PM,19:30:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,A Rabinovich,L,0,L Zhao,W,2,No
+10/21/2025,10:00,AM,10:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 3,5v5 Basketball,Open League,Sesame Street,L,39,Predators,W,70,No
+10/21/2025,8:15,PM,20:15:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,Black Lives Matter,W,2,A Sun,L,1,No
+10/21/2025,9:00,PM,21:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,I Moody,L,0,J Leite,W,2,No
+10/21/2025,10:30,PM,22:30:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,Hawluchas,W,2,C Duncan,L,0,No
+10/21/2025,11:15,PM,23:15:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,Frisky Huskies,W,2,A Skrabacz,L,0,No
+10/22/2025,6:00,PM,18:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,The Jolly Good Fellows,L,0,Boda Boys,W,2,Yes
+10/22/2025,3:00,PM,15:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 3,4v4 Volleyball,Open League,I Lin,L,1,A Akbari,W,2,No
+10/22/2025,11:45,AM,11:45:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 3,4v4 Volleyball,Open League,Washed Up,L,0,K Rooney,W,2,Yes
+10/22/2025,11:45,AM,11:45:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 3,5v5 Basketball,Open League,B Brown,L,0,LeSoldiers,W,15,Yes
+10/22/2025,6:00,PM,18:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,T Li,W,2,E Berenfeld,L,0,Yes
+10/22/2025,11:30,AM,11:30:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 3,5v5 Basketball,Open League,FTC Elite,L,0,irish spring green,W,15,No
+10/22/2025,5:15,PM,17:15:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 3,5v5 Basketball,Open League,D Terpinas,L,54,M Tian,W,59,No
+10/22/2025,6:45,PM,18:45:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,5v5 Basketball,Open League,Greek Freaks,L,0,C Kouspakain,W,15,Yes
+10/23/2025,5:15,PM,17:15:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 3,5v5 Basketball,Open League,S Cheek,W,60,Fractions,L,31,No
+10/23/2025,6:45,PM,18:45:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,5v5 Basketball,Open League,J Tang,W,47,J Gurewitz,L,36,No
+10/23/2025,7:30,PM,19:30:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,5v5 Basketball,Open League,N Chin,L,40,Basketball Players,W,51,No
+10/23/2025,8:15,PM,20:15:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,J Clark,W,2,volley balls,L,0,No
+10/23/2025,9:45,PM,21:45:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,Predators,L,0,D Daluise,W,2,No
+10/23/2025,9:45,PM,21:45:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,S Tudor,W,2,Y Thingalore M...,L,0,No
+10/23/2025,10:30,PM,22:30:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,Avengers,W,2,B Brovold,L,0,Yes
+10/23/2025,11:15,PM,23:15:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,S Lam,W,2,C Dean,L,0,No
+10/25/2025,6:45,PM,18:45:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2b,Badminton,Badminton Singles,Minion,W,2,T Thomson,L,0,No
+10/25/2025,7:30,PM,19:30:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2c,Badminton,Badminton Doubles,M Sharma,W,2,Racket Raccoons,L,0,No
+10/25/2025,9:00,PM,21:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2b,Badminton,Badminton Doubles,M Vanguri,L,0,S Karnik,W,2,No
+10/25/2025,8:15,PM,20:15:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2c,Badminton,Badminton Doubles,P Sundareswara...,W,2,T Li,L,0,No
+10/25/2025,9:00,PM,21:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2b,Badminton,Badminton Doubles,Banana,L,0,Y Markose,W,2,No
+10/25/2025,9:00,PM,21:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2c,Badminton,Badminton Singles,D Jiang,L,0,A SK,W,2,No
+10/25/2025,9:00,PM,21:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2a,Badminton,Badminton Singles,P Nguyen,W,2,D Nguyen,L,0,No
+10/25/2025,6:00,PM,18:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2a,Badminton,Badminton Singles,K Hong,L,1,K Duraisamy,W,2,No
+10/25/2025,6:00,PM,18:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2b,Badminton,Badminton Singles,A Jaiswal,L,0,C Santhanam Su...,W,2,No
+10/25/2025,6:45,PM,18:45:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2c,Badminton,Badminton Singles,T Manjunath,L,0,C Whitehouse,W,2,Yes
+10/25/2025,6:45,PM,18:45:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2a,Badminton,Badminton Singles,J Zachariah,L,1,Y Markose,W,2,No
+10/25/2025,7:30,PM,19:30:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2b,Badminton,Badminton Singles,N Tadepalli,W,2,M Ambulkar,L,0,Yes
+10/25/2025,9:00,PM,21:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2a,Badminton,Badminton Singles,R Ng,L,0,S Ganesan,W,2,No
+10/25/2025,9:00,PM,21:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2c,Badminton,Badminton Singles,Lokesh,W,2,Y Luo,L,0,No
+10/25/2025,9:45,PM,21:45:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2a,Badminton,Badminton Singles,J Wang,L,0,M Balakumar,W,2,No
+10/27/2025,6:00,PM,18:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,m kothari,W,2,C Im,L,0,No
+10/27/2025,6:45,PM,18:45:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,N Lee,L,0,R Alejandrino,W,2,No
+10/27/2025,9:00,PM,21:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,Â¯\_(ãƒ„)_/Â¯,L,0,J Olosky,W,2,No
+10/27/2025,10:30,PM,22:30:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,5v5 Basketball,Open League,The Dawgs,W,15,C Lemmon,L,0,No
+10/27/2025,6:00,PM,18:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,5v5 Basketball,Open League,J Kim,L,0,J Marino,W,15,No
+10/27/2025,6:45,PM,18:45:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,5v5 Basketball,Open League,M Mochalov,L,0,Stair Master Steppers,W,15,No
+10/27/2025,8:15,PM,20:15:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,5v5 Basketball,Open League,A Venkat,L,46,H Ng,W,61,No
+10/27/2025,10:30,PM,22:30:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,m kothari,L,1,N Lee,W,2,No
+10/28/2025,8:00,PM,20:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,Burger's Burgers,W,2,V Yoo,L,0,Yes
+10/28/2025,9:00,PM,21:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,I Kaplanovich,L,0,N Kannalath,W,2,Yes
+10/28/2025,10:00,PM,22:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,K Lou,L,0,C Becker,W,2,Yes
+10/28/2025,2:00,PM,14:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 3,4v4 Volleyball,Open League,S Tudor,W,2,J Fukuda,L,0,No
+10/28/2025,6:00,PM,18:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,5v5 Basketball,Open League,D Huang,L,0,A Mitchell,W,15,No
+10/28/2025,7:00,PM,19:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,5v5 Basketball,Open League,G Waryas,W,45,Marino MegaStars,L,40,No
+10/28/2025,4:00,PM,16:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 3,5v5 Basketball,Open League,J Orlin,L,49,D Murphy,W,65,No
+10/28/2025,8:45,PM,20:45:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,T Velaga,W,2,M Tums,L,0,No
+10/29/2025,7:45,PM,19:45:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,Dosa and Dumplings,W,2,The Jolly Good Fellows,L,0,Yes
+10/29/2025,11:00,AM,11:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 3,4v4 Volleyball,Open League,Tricky Tremonts,W,2,D Patel,L,0,Yes
+10/29/2025,11:45,AM,11:45:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 3,4v4 Volleyball,Open League,K Rooney,L,0,B Zeng,W,2,Yes
+10/29/2025,12:30,PM,12:30:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 3,4v4 Volleyball,Open League,A Akbari,W,2,G Lee,L,0,No
+10/29/2025,2:00,PM,14:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 3,4v4 Volleyball,Open League,C Fourie,L,0,B Cordes,W,2,No
+10/29/2025,11:00,AM,11:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 3,5v5 Basketball,Open League,Goon Squad,L,0,B Saterbak,W,15,Yes
+10/29/2025,11:45,AM,11:45:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 3,5v5 Basketball,Open League,London Lob City,W,69,A Wang,L,39,No
+10/29/2025,11:00,AM,11:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 3,5v5 Basketball,Open League,S Safian,W,65,S Gioffre,L,34,No
+10/30/2025,6:00,PM,18:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,I Lin,W,2,C Duncan,L,0,No
+10/30/2025,8:00,PM,20:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,S Tudor,L,0,A Akbari,W,2,Yes
+10/30/2025,6:00,PM,18:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,M Tran,W,2,M Mahajan,L,0,Yes
+10/30/2025,8:30,PM,20:30:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,L Collins,DoubleLoss,0,A Solankhi,DoubleLoss,0,Yes
+10/30/2025,6:15,PM,18:15:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,B Hsu,W,2,R Alejandrino,L,0,Yes
+10/30/2025,6:00,PM,18:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,L Stanhope,L,1,D Daluise,W,2,No
+10/30/2025,9:00,PM,21:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,PLP,L,0,S Dong,W,2,No
+10/30/2025,10:00,PM,22:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,Boda Boys,W,2,I Garcia Pinto...,L,0,No
+10/30/2025,12:30,PM,12:30:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 3,4v4 Volleyball,Open League,K Sung,W,2,NUSAACS,L,0,No
+11/1/2025,8:00,PM,20:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2b,Badminton,Badminton Singles,K Xia,L,0,Minion,W,2,No
+11/1/2025,9:00,PM,21:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2b,Badminton,Badminton Doubles,P Sundareswara...,L,0,M Sharma,W,2,No
+11/1/2025,7:00,PM,19:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2a,Badminton,Badminton Singles,C Whitehouse,L,0,R Ng,W,2,Yes
+11/1/2025,7:30,PM,19:30:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2c,Badminton,Badminton Doubles,S Karnik,L,0,M Sharma,W,2,No
+11/1/2025,7:00,PM,19:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2b,Badminton,Badminton Doubles,Y Markose,L,0,P Sundareswara...,W,2,No
+11/1/2025,1:15,PM,13:15:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 2a,Badminton,Badminton Singles,Lokesh,L,0,K Hong,W,2,Yes
+11/1/2025,2:45,PM,14:45:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 2c,Badminton,Badminton Singles,P Sundareswara...,W,2,D Jiang,L,0,Yes
+11/1/2025,3:30,PM,15:30:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 2c,Badminton,Badminton Singles,J Wang,L,0,N Tadepalli,W,2,No
+11/1/2025,2:30,PM,14:30:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 2a,Badminton,Badminton Singles,J Zachariah,W,2,Y Luo,L,0,Yes
+11/1/2025,3:15,PM,15:15:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 2a,Badminton,Badminton Singles,M Sharma,L,0,r cheung,W,0,Yes
+11/1/2025,7:00,PM,19:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2b,Badminton,Badminton Singles,D Nguyen,W,2,S Ganesan,L,0,Yes
+11/1/2025,8:00,PM,20:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2c,Badminton,Badminton Singles,K Duraisamy,W,2,T Thomson,L,0,No
+11/1/2025,9:00,PM,21:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2b,Badminton,Badminton Singles,Y Long,W,2,A Jaiswal,L,0,Yes
+11/1/2025,6:00,PM,18:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2a,Badminton,Badminton Singles,Karthik S,L,1,M Balakumar,W,2,No
+11/1/2025,10:00,PM,22:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2c,Badminton,Badminton Singles,M Vanguri,W,2,L Chen,L,0,Yes
+11/3/2025,6:00,PM,18:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,J Zachariah,W,2,Y Thingalore M...,L,0,No
+11/3/2025,7:00,PM,19:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,S Lam,W,2,L Rollo,L,0,Yes
+11/3/2025,7:00,PM,19:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,Goon Squad,W,2,A Skrabacz,L,1,No
+11/3/2025,7:00,PM,19:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,Frisky Huskies,L,0,H Schreiman,W,2,No
+11/3/2025,8:00,PM,20:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,5v5 Basketball,Open League,A Reddy,W,53,J Gurewitz,L,23,No
+11/3/2025,6:00,PM,18:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,5v5 Basketball,Open League,Predators,W,43,E Yang,L,13,No
+11/3/2025,6:00,PM,18:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,5v5 Basketball,Open League,Marino MegaStars,L,0,Sesame Street,W,15,Yes
+11/3/2025,7:00,PM,19:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,5v5 Basketball,Open League,A Venkat,W,15,D Huang,L,0,Yes
+11/4/2025,2:30,PM,14:30:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 3,4v4 Volleyball,All Gender League,V Jones,W,2,A Rabinovich,L,0,No
+11/4/2025,12:15,PM,12:15:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 3,4v4 Volleyball,All Gender League,Griddy Gang,W,2,A Shinde,L,0,No
+11/4/2025,1:00,PM,13:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 3,4v4 Volleyball,All Gender League,B Chung,L,0,I Chee,W,2,No
+11/4/2025,7:30,PM,19:30:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,A Caceres,W,2,Phide,L,0,No
+11/4/2025,10:45,AM,10:45:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 3,4v4 Volleyball,All Gender League,The Stetson Pack,L,1,J Oâ€™Keefe,W,2,No
+11/4/2025,1:45,PM,13:45:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 3,4v4 Volleyball,All Gender League,L Collins,W,2,C Dean,L,0,No
+11/4/2025,11:30,AM,11:30:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 3,4v4 Volleyball,All Gender League,A Weinberg,L,0,J Clark,W,2,No
+11/4/2025,12:15,PM,12:15:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 3,4v4 Volleyball,All Gender League,T Li,W,2,J Ortega,L,1,No
+11/4/2025,6:00,PM,18:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,G Nestares,L,0,J Olosky,W,2,No
+11/5/2025,6:45,PM,18:45:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,Burger's Burgers,W,2,C Becker,L,0,Yes
+11/5/2025,9:45,PM,21:45:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,5v5 Basketball,Open League,J Marino,L,0,N Chin,W,15,Yes
+11/5/2025,10:30,PM,22:30:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,Lucky Set,L,0,T Velaga,W,2,No
+11/5/2025,6:00,PM,18:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,J Zachariah,L,1,J Olosky,W,2,No
+11/5/2025,7:30,PM,19:30:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,5v5 Basketball,Open League,C Kouspakain,W,15,Fractions,L,0,Yes
+11/5/2025,8:15,PM,20:15:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,J Chie,W,2,N Kannalath,L,0,Yes
+11/5/2025,6:00,PM,18:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,5v5 Basketball,Open League,J Kim,W,15,Greek Freaks,L,0,Yes
+11/5/2025,9:45,PM,21:45:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,5v5 Basketball,Open League,A Mitchell,W,81,A Reddy,L,62,No
+11/6/2025,10:30,PM,22:30:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,AA AA AA AA AA,W,2,B Zeng,L,0,No
+11/6/2025,11:15,PM,23:15:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,5v5 Basketball,Open League,S Safian,W,54,P Mitchell,L,24,No
+11/6/2025,6:00,PM,18:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,5v5 Basketball,Open League,D Murphy,W,15,Stair Master Steppers,L,0,Yes
+11/6/2025,6:00,PM,18:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,J Qian,W,2,Boda Boys,L,0,No
+11/6/2025,7:30,PM,19:30:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,M Tran,W,2,Tricky Tremonts,L,0,No
+11/6/2025,9:00,PM,21:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,5v5 Basketball,Open League,Basketball Players,W,55,Sesame Street,L,25,No
+11/6/2025,8:15,PM,20:15:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,J Jackson,W,2,Dosa and Dumplings,L,0,No
+11/6/2025,6:00,PM,18:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,E Wenzinger,W,2,m kothari,L,0,No
+11/8/2025,9:00,PM,21:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2a,Badminton,Badminton Singles,C Santhanam Su...,L,1,Minion,W,2,No
+11/8/2025,7:30,PM,19:30:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2c,Badminton,Badminton Singles,M Vanguri,W,2,J Zachariah,L,0,No
+11/8/2025,8:15,PM,20:15:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2b,Badminton,Badminton Singles,r cheung,L,0,D Nguyen,W,2,Yes
+11/8/2025,9:00,PM,21:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2a,Badminton,Badminton Singles,A SK,W,2,Y Long,L,1,No
+11/8/2025,9:00,PM,21:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2c,Badminton,Badminton Singles,Y Long,W,2,K Duraisamy,L,0,No
+11/8/2025,9:00,PM,21:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2b,Badminton,Badminton Singles,A SK,W,2,M Balakumar,L,0,No
+11/8/2025,8:30,PM,20:30:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2a,Badminton,Badminton Singles,P Nguyen,W,2,Y Markose,L,0,No
+11/8/2025,8:30,PM,20:30:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2b,Badminton,Badminton Singles,Y Markose,W,2,A Liew,L,0,No
+11/8/2025,9:15,PM,21:15:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2a,Badminton,Badminton Singles,P Nguyen,W,2,G Ashokumar,L,0,No
+11/10/2025,9:00,PM,21:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,Avengers,W,2,B Cordes,L,0,Yes
+11/10/2025,1:00,PM,13:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 3,4v4 Volleyball,Open League,K Sung,L,0,I Lin,W,2,No
+11/10/2025,2:00,PM,14:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 3,4v4 Volleyball,Open League,Hawluchas,L,0,D Daluise,W,2,No
+11/10/2025,2:00,PM,14:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 3,4v4 Volleyball,Open League,OGs,W,2,S Dong,L,0,No
+11/10/2025,9:00,PM,21:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,5v5 Basketball,Open League,S Gioffre,W,47,B Saterbak,L,43,No
+11/10/2025,7:00,PM,19:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,5v5 Basketball,Open League,Brunson Burners,W,57,J Orlin,L,39,No
+11/10/2025,7:30,PM,19:30:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,5v5 Basketball,Open League,J Tang,W,59,C Kouspakain,L,27,No
+11/10/2025,7:40,PM,19:40:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,5v5 Basketball,Open League,London Lob City,W,48,A Venkat,L,2,No
+11/11/2025,5:00,PM,17:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 3,4v4 Volleyball,Open League,J Jackson,W,2,AA AA AA AA AA,L,0,No
+11/11/2025,5:00,PM,17:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 3,5v5 Basketball,Open League,S Cheek,W,53,J Kim,L,32,No
+11/11/2025,6:00,PM,18:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,5v5 Basketball,Open League,H Ng,W,49,A Wang,L,38,No
+11/11/2025,8:00,PM,20:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,5v5 Basketball,Open League,irish spring green,W,43,The Dawgs,L,39,No
+11/11/2025,10:00,PM,22:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,J Olosky,L,0,T Velaga,W,2,No
+11/11/2025,10:00,PM,22:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,B Hsu,L,0,A Akbari,W,2,No
+11/11/2025,7:00,PM,19:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,J Chie,W,2,Burger's Burgers,L,0,Yes
+11/12/2025,10:00,PM,22:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,Z Weiss,W,2,I Moody,L,1,No
+11/12/2025,11:00,PM,23:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,m kothari,W,2,A Zhang,L,0,No
+11/12/2025,9:00,PM,21:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,N Lee,W,2,N Dungca,L,0,No
+11/12/2025,10:00,PM,22:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,Black Lives Matter,W,2,Elite Heat volleyball,L,0,No
+11/12/2025,11:00,PM,23:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,5v5 Basketball,Open League,A Mitchell,W,58,N Chin,L,54,No
+11/12/2025,4:00,PM,16:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 3,5v5 Basketball,Open League,M Tian,L,20,C Lemmon,W,37,No
+11/12/2025,7:00,PM,19:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,5v5 Basketball,Open League,LeSoldiers,L,0,D Terpinas,W,15,Yes
+11/12/2025,3:00,PM,15:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 3,5v5 Basketball,Open League,Kool-Aid Jammers (Best 5th Grade Squad in the Nation),W,53,G Waryas,L,23,No
+11/13/2025,6:00,PM,18:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,Goon Squad,L,0,Griddy Gang,W,2,No
+11/13/2025,6:00,PM,18:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,Avengers,W,2,H Schreiman,L,0,No
+11/13/2025,8:00,PM,20:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,A Sun,L,0,Â¯\_(ãƒ„)_/Â¯,W,2,No
+11/13/2025,9:00,PM,21:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,L Zhao,W,2,Practice Safe Sets,L,0,No
+11/13/2025,6:00,PM,18:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,S Tudor,W,2,VolleyAllDay,L,0,No
+11/13/2025,6:00,PM,18:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,S Chen,L,1,L Tom,W,2,No
+11/13/2025,10:00,PM,22:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,Predators,L,0,I Kaplanovich,W,2,No
+11/13/2025,10:00,PM,22:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,B Trott,L,0,AA AA AA AA AA,W,2,No
+11/13/2025,6:45,PM,18:45:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,K Pine,L,0,volley balls,W,2,Yes
+11/15/2025,7:30,PM,19:30:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2a,Badminton,Badminton Singles,N Tadepalli,W,2,P Nguyen,L,0,No
+11/15/2025,11:15,PM,23:15:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,Badminton,Badminton Singles,Minion,L,1,P Sundareswara...,W,2,No
+11/15/2025,6:00,PM,18:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2c,Badminton,Badminton Singles,R Ng,L,1,N Tadepalli,W,2,No
+11/15/2025,6:45,PM,18:45:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 2b,Badminton,Badminton Singles,D Nguyen,L,0,M Vanguri,W,2,No
+11/15/2025,1:00,PM,13:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 2b,Badminton,Badminton Singles,P Sundareswara...,W,2,K Hong,L,0,No
+11/17/2025,5:15,PM,17:15:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 3,4v4 Volleyball,All Gender League,T Li,W,2,J Oâ€™Keefe,L,0,No
+11/17/2025,7:30,PM,19:30:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,Dosa and Dumplings,W,2,J Clark,L,0,No
+11/17/2025,2:00,PM,14:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 3,4v4 Volleyball,All Gender League,J Leite,L,0,L Collins,W,2,No
+11/17/2025,3:00,PM,15:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 3,4v4 Volleyball,All Gender League,J Zachariah,W,2,J Olosky,L,0,No
+11/17/2025,8:45,PM,20:45:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,5v5 Basketball,Open League,J Tang,L,58,Brunson Burners,W,62,No
+11/17/2025,11:00,AM,11:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 3,5v5 Basketball,Open League,Basketball Players,W,57,S Safian,L,45,No
+11/17/2025,5:00,PM,17:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Early,Court 3,5v5 Basketball,Open League,Predators,L,80,D Murphy,W,87,No
+11/17/2025,6:00,PM,18:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,5v5 Basketball,Open League,London Lob City,W,49,S Gioffre,L,39,No
+11/18/2025,7:00,PM,19:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,I Lin,W,2,S Tudor,L,0,No
+11/18/2025,11:00,PM,23:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,Z Weiss,W,2,L Tom,L,1,No
+11/18/2025,11:00,PM,23:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,AA AA AA AA AA,W,2,volley balls,L,1,No
+11/18/2025,9:45,PM,21:45:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,D Daluise,W,2,I Kaplanovich,L,0,Yes
+11/18/2025,11:15,PM,23:15:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,J Chie,W,2,m kothari,L,1,No
+11/18/2025,6:00,PM,18:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,Black Lives Matter,W,2,N Lee,L,0,No
+11/18/2025,6:00,PM,18:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,B Verheijen,W,2,I Chee,L,0,No
+11/18/2025,10:00,PM,22:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,S Lam,W,2,V Jones,L,0,No
+11/18/2025,11:00,PM,23:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,H Saito,W,2,A Caceres,L,0,Yes
+11/19/2025,11:00,PM,23:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,Avengers,W,2,T Min Khant,L,0,No
+11/19/2025,8:00,PM,20:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,I Lin,L,0,D Daluise,W,2,No
+11/19/2025,6:00,PM,18:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,J Qian,L,0,OGs,W,2,No
+11/19/2025,10:00,PM,22:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,E Wenzinger,W,2,M Tran,L,0,No
+11/19/2025,11:00,PM,23:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,5v5 Basketball,Open League,A Mitchell,L,55,D Murphy,W,68,No
+11/19/2025,8:15,PM,20:15:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,5v5 Basketball,Open League,Kool-Aid Jammers (Best 5th Grade Squad in the Nation),W,15,D Terpinas,L,0,Yes
+11/19/2025,9:00,PM,21:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,5v5 Basketball,Open League,S Cheek,L,28,C Lemmon,W,43,No
+11/19/2025,10:30,PM,22:30:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,5v5 Basketball,Open League,irish spring green,L,33,H Ng,W,39,No
+11/20/2025,10:30,PM,22:30:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,Dosa and Dumplings,W,2,T Li,L,1,No
+11/20/2025,6:00,PM,18:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,L Collins,W,2,J Zachariah,L,0,No
+11/20/2025,6:00,PM,18:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,L Zhao,W,2,Â¯\_(ãƒ„)_/Â¯,L,0,No
+11/20/2025,6:00,PM,18:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,A Akbari,L,1,T Velaga,W,2,No
+11/20/2025,9:00,PM,21:00:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,J Chie,L,0,J Jackson,W,2,No
+11/20/2025,8:15,PM,20:15:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,E Wenzinger,W,2,OGs,L,0,No
+11/20/2025,8:15,PM,20:15:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,All Gender League,Avengers,W,2,Griddy Gang,L,0,No
+11/20/2025,9:45,PM,21:45:00,Marino Recreation Center,42.34031843,-71.09029321,Indoor,Late,Court 3,4v4 Volleyball,Open League,D Daluise,W,2,Avengers,L,1,No
+9/14/2025,7:45,PM,19:45:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Matthews Arena,Ice Hockey,Open League,Oozma Kappa,L,2,N Kefeyan,W,7,No
+9/14/2025,7:45,PM,19:45:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Broomball B,Broomball,All Gender League,Circle K Sweeps!,W,2,GIBL,L,1,No
+9/14/2025,8:00,PM,20:00:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Broomball A,Broomball,All Gender League,J Amadia,W,5,Broomstone,L,0,No
+9/14/2025,10:00,PM,22:00:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Broomball B,Broomball,All Gender League,2 Kings 2:24,W,5,Broomball Mtn.,L,0,No
+9/14/2025,8:00,PM,20:00:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Broomball A,Broomball,All Gender League,Swiffer Sweepers,W,3,K Pine,L,0,No
+9/14/2025,9:00,PM,21:00:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Broomball B,Broomball,All Gender League,Cathletes,W,9,Mack Attack,L,1,No
+9/14/2025,7:45,PM,19:45:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Broomball A,Broomball,All Gender League,The Mops,L,2,Oozma Kappa,W,3,No
+9/14/2025,7:00,PM,19:00:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Broomball B,Broomball,All Gender League,Broombros,W,4,Baja Blast,L,3,No
+9/14/2025,7:00,PM,19:00:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Broomball B,Broomball,All Gender League,Sweeping Beauties,W,5,E Singer,L,0,No
+9/14/2025,9:00,PM,21:00:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Broomball A,Broomball,All Gender League,Elite Heat Broomball,W,3,C DeSmith,L,0,No
+9/14/2025,8:00,PM,20:00:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Matthews Arena,Ice Hockey,Open League,K Azzaretto,W,6,A Poulin,L,5,No
+9/14/2025,10:00,PM,22:00:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Broomball A,Broomball,All Gender League,Broom It We Ball,W,11,Z Brown,L,0,No
+9/16/2025,4:45,PM,16:45:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Early,Broomball B,Broomball,All Gender League,Circle K Sweeps!,L,1,Oozma Kappa,W,4,No
+9/16/2025,7:30,PM,19:30:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Broomball A,Broomball,All Gender League,Pick â€˜N Choose,W,4,Sweepnweep,L,1,No
+9/16/2025,7:45,PM,19:45:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Matthews Arena,Ice Hockey,Open League,J Amadia,L,4,N Hurley,W,6,No
+9/18/2025,8:30,PM,20:30:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Broomball A,Broomball,All Gender League,Elite Heat Broomball,W,7,K Pine,L,0,No
+9/18/2025,7:45,PM,19:45:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Broomball B,Broomball,All Gender League,Sweeping Beauties,L,1,C DeSmith,W,2,No
+9/18/2025,10:00,PM,22:00:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Broomball B,Broomball,All Gender League,Broombros,W,1,GIBL,L,0,No
+9/18/2025,8:00,PM,20:00:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Broomball A,Broomball,All Gender League,Broom It We Ball,W,11,Sweepnweep,L,1,No
+9/21/2025,10:00,PM,22:00:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Matthews Arena,Ice Hockey,Open League,Oozma Kappa,W,5,A Poulin,L,2,No
+9/21/2025,3:00,PM,15:00:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Early,Broomball B,Broomball,All Gender League,Pick â€˜N Choose,W,10,Don't Sweep On Us,L,0,No
+9/21/2025,6:00,PM,18:00:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Broomball A,Broomball,All Gender League,Sweeping Beauties,L,1,K Pine,W,2,No
+9/21/2025,6:45,PM,18:45:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Broomball B,Broomball,All Gender League,Broombros,Tied,1,Oozma Kappa,Tied,1,No
+9/21/2025,7:30,PM,19:30:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Broomball A,Broomball,All Gender League,Broomball Mtn.,W,4,Broomstone,L,2,No
+9/21/2025,8:15,PM,20:15:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Broomball A,Broomball,All Gender League,J Amadia,W,6,Baja Blast,L,1,No
+9/21/2025,7:30,PM,19:30:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Broomball B,Broomball,All Gender League,2 Kings 2:24,W,3,Mack Attack,L,0,No
+9/21/2025,8:15,PM,20:15:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Broomball B,Broomball,All Gender League,Cathletes,W,1,E Singer,L,0,No
+9/21/2025,12:00,PM,12:00:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Early,Broomball A,Broomball,All Gender League,The Mops,DoubleLoss,0,Z Brown,DoubleLoss,0,Yes
+9/21/2025,1:00,PM,13:00:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Early,Matthews Arena,Ice Hockey,Open League,K Azzaretto,W,9,Dawgs,L,1,No
+9/23/2025,7:00,PM,19:00:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Broomball A,Broomball,All Gender League,Broomstone,W,7,Mack Attack,L,0,No
+9/23/2025,7:00,PM,19:00:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Broomball B,Broomball,All Gender League,Broomball Mtn.,W,4,Baja Blast,L,0,No
+9/23/2025,7:45,PM,19:45:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Matthews Arena,Ice Hockey,Open League,N Hurley,L,8,N Kefeyan,W,9,No
+9/28/2025,11:15,PM,23:15:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Broomball A,Broomball,All Gender League,Circle K Sweeps!,W,3,Z Brown,L,0,No
+9/28/2025,6:00,PM,18:00:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Broomball A,Broomball,All Gender League,The Mops,L,0,Sweepnweep,W,3,Yes
+9/28/2025,6:45,PM,18:45:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Broomball A,Broomball,All Gender League,2 Kings 2:24,DoubleLoss,0,E Singer,DoubleLoss,0,Yes
+9/28/2025,7:30,PM,19:30:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Matthews Arena,Ice Hockey,Open League,J Amadia,Tied,4,Dawgs,Tied,4,No
+9/28/2025,10:30,PM,22:30:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Broomball B,Broomball,All Gender League,Pick â€˜N Choose,L,1,Broom It We Ball,W,4,No
+9/28/2025,11:15,PM,23:15:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Broomball A,Broomball,All Gender League,Cathletes,W,3,C DeSmith,L,0,Yes
+9/28/2025,9:45,PM,21:45:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Broomball A,Broomball,All Gender League,Swiffer Sweepers,W,5,Don't Sweep On Us,L,0,No
+9/28/2025,10:30,PM,22:30:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Matthews Arena,Ice Hockey,Open League,K Azzaretto,W,5,Oozma Kappa,L,1,No
+9/28/2025,9:00,PM,21:00:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Broomball B,Broomball,All Gender League,J Amadia,W,6,GIBL,L,0,No
+9/30/2025,1:15,PM,13:15:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Early,Broomball B,Broomball,All Gender League,Elite Heat Broomball,W,11,Don't Sweep On Us,L,0,No
+9/30/2025,1:15,PM,13:15:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Early,Broomball A,Broomball,All Gender League,Pick â€˜N Choose,W,1,Swiffer Sweepers,L,0,No
+9/30/2025,11:45,AM,11:45:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Early,Matthews Arena,Ice Hockey,Open League,N Hurley,L,0,A Poulin,W,3,Yes
+10/2/2025,5:00,PM,17:00:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Early,Broomball B,Broomball,All Gender League,Circle K Sweeps!,W,2,Don't Sweep On Us,L,1,No
+10/2/2025,5:00,PM,17:00:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Early,Broomball A,Broomball,All Gender League,C DeSmith,DoubleLoss,0,Baja Blast,DoubleLoss,0,Yes
+10/2/2025,7:30,PM,19:30:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Broomball A,Broomball,All Gender League,Sweepnweep,W,6,GIBL,L,0,No
+10/5/2025,6:45,PM,18:45:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Broomball A,Broomball,All Gender League,Sweeping Beauties,W,3,Mack Attack,L,0,Yes
+10/5/2025,6:45,PM,18:45:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Broomball B,Broomball,All Gender League,Elite Heat Broomball,W,2,Sweepnweep,L,1,No
+10/5/2025,7:30,PM,19:30:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Broomball B,Broomball,All Gender League,Broomstone,W,3,Z Brown,L,0,Yes
+10/5/2025,7:30,PM,19:30:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Broomball A,Broomball,All Gender League,K Pine,W,3,E Singer,L,0,No
+10/5/2025,7:30,PM,19:30:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Matthews Arena,Ice Hockey,Open League,K Azzaretto,W,3,J Amadia,L,0,No
+10/5/2025,9:00,PM,21:00:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Matthews Arena,Ice Hockey,Open League,N Hurley,W,13,Oozma Kappa,L,4,No
+10/7/2025,7:00,PM,19:00:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Broomball A,Broomball,All Gender League,Pick â€˜N Choose,W,7,Broomball Mtn.,L,1,No
+10/7/2025,10:00,PM,22:00:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Broomball B,Broomball,All Gender League,Broombros,L,3,Circle K Sweeps!,W,4,No
+10/7/2025,10:00,PM,22:00:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Broomball B,Broomball,All Gender League,2 Kings 2:24,L,0,Swiffer Sweepers,W,3,No
+10/12/2025,6:00,PM,18:00:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Broomball A,Broomball,All Gender League,Oozma Kappa,W,6,Sweeping Beauties,L,1,No
+10/12/2025,6:45,PM,18:45:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Broomball A,Broomball,All Gender League,J Amadia,W,3,Circle K Sweeps!,L,2,No
+10/12/2025,7:30,PM,19:30:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Broomball B,Broomball,All Gender League,Cathletes,W,3,Broomstone,L,0,Yes
+10/12/2025,8:15,PM,20:15:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Broomball B,Broomball,All Gender League,Elite Heat Broomball,L,0,Pick â€˜N Choose,W,1,No
+10/12/2025,9:00,PM,21:00:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Matthews Arena,Ice Hockey,Open League,A Poulin,W,6,Dawgs,L,5,No
+10/12/2025,9:45,PM,21:45:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Matthews Arena,Ice Hockey,Open League,N Kefeyan,W,3,J Amadia,L,0,Yes
+10/12/2025,12:30,PM,12:30:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Early,Broomball A,Broomball,All Gender League,Broom It We Ball,W,7,K Pine,L,1,No
+10/14/2025,5:00,PM,17:00:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Early,Broomball A,Broomball,All Gender League,Broom It We Ball,L,2,Swiffer Sweepers,W,3,No
+10/14/2025,6:00,PM,18:00:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Broomball A,Broomball,All Gender League,Pick â€˜N Choose,W,1,J Amadia,L,0,No
+10/14/2025,9:30,PM,21:30:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Broomball B,Broomball,All Gender League,Cathletes,W,1,Oozma Kappa,L,0,No
+10/16/2025,6:45,PM,18:45:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Matthews Arena,Full Ice Broomball,8v8 Full Ice Broomball,Cathletes,W,4,N BarmÃ©,L,0,No
+10/16/2025,9:45,PM,21:45:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Matthews Arena,Full Ice Broomball,8v8 Full Ice Broomball,Broom It We Ball,W,2,Broomball Mtn.,L,0,Yes
+10/19/2025,10:00,PM,22:00:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Broomball A,Broomball,All Gender League,Swiffer Sweepers,L,1,Cathletes,W,2,No
+10/19/2025,6:00,PM,18:00:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Matthews Arena,Full Ice Broomball,8v8 Full Ice Broomball,Broombros,W,3,Don't Sweep On Us,L,0,Yes
+10/19/2025,8:15,PM,20:15:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Matthews Arena,Full Ice Broomball,8v8 Full Ice Broomball,Sweeping Beauties,W,3,M Harrington,L,0,Yes
+10/19/2025,8:15,PM,20:15:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Matthews Arena,Full Ice Broomball,8v8 Full Ice Broomball,Swiffer Sweepers,W,3,sweepnweep,L,0,Yes
+10/19/2025,7:45,PM,19:45:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Matthews Arena,Full Ice Broomball,8v8 Full Ice Broomball,Oozma Kappa,W,3,5 Big Brooms,L,0,Yes
+10/19/2025,7:45,PM,19:45:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Matthews Arena,Full Ice Broomball,8v8 Full Ice Broomball,ELITE HEAT ON ICE,W,3,J O'Connell,L,0,Yes
+10/19/2025,8:30,PM,20:30:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Matthews Arena,Ice Hockey,Open League,N Kefeyan,L,0,Dawgs,W,3,Yes
+10/21/2025,7:00,PM,19:00:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Broomball A,Broomball,All Gender League,Cathletes,W,2,Pick â€˜N Choose,L,1,No
+10/21/2025,8:00,PM,20:00:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Matthews Arena,Full Ice Broomball,8v8 Full Ice Broomball,Broom It We Ball,W,3,Pick 'N Choose,L,0,No
+10/23/2025,6:00,PM,18:00:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Matthews Arena,Full Ice Broomball,8v8 Full Ice Broomball,Oozma Kappa,W,2,N BarmÃ©,L,0,No
+10/23/2025,7:30,PM,19:30:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Matthews Arena,Full Ice Broomball,8v8 Full Ice Broomball,Cathletes,W,2,Broomball Mtn.,L,0,Yes
+10/26/2025,9:45,PM,21:45:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Matthews Arena,Ice Hockey,Open League,A Poulin,L,1,Dawgs,W,5,No
+10/26/2025,9:00,PM,21:00:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Matthews Arena,Full Ice Broomball,8v8 Full Ice Broomball,Sweeping Beauties,W,1,Don't Sweep On Us,L,0,No
+10/26/2025,6:00,PM,18:00:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Matthews Arena,Full Ice Broomball,8v8 Full Ice Broomball,Swiffer Sweepers,W,3,5 Big Brooms,L,0,Yes
+10/26/2025,7:30,PM,19:30:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Matthews Arena,Full Ice Broomball,8v8 Full Ice Broomball,Broombros,W,3,J O'Connell,L,0,Yes
+10/26/2025,8:15,PM,20:15:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Matthews Arena,Full Ice Broomball,8v8 Full Ice Broomball,M Harrington,L,0,sweepnweep,W,3,Yes
+10/28/2025,6:45,PM,18:45:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Matthews Arena,Ice Hockey,Open League,N Hurley,W,11,Oozma Kappa,L,1,No
+10/28/2025,7:00,PM,19:00:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Matthews Arena,Full Ice Broomball,8v8 Full Ice Broomball,ELITE HEAT ON ICE,L,1,Pick 'N Choose,W,3,No
+11/4/2025,10:00,AM,10:00:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Early,Matthews Arena,Ice Hockey,Open League,K Azzaretto,L,0,Dawgs,W,1,No
+11/4/2025,1:00,PM,13:00:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Early,Matthews Arena,Ice Hockey,Open League,N Kefeyan,L,4,N Hurley,W,5,No
+11/9/2025,7:45,PM,19:45:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Matthews Arena,Full Ice Broomball,8v8 Full Ice Broomball,Swiffer Sweepers,W,3,N BarmÃ©,L,0,No
+11/9/2025,7:45,PM,19:45:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Matthews Arena,Full Ice Broomball,8v8 Full Ice Broomball,Sweeping Beauties,L,0,N BarmÃ©,W,1,No
+11/9/2025,8:30,PM,20:30:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Matthews Arena,Full Ice Broomball,8v8 Full Ice Broomball,ELITE HEAT ON ICE,W,3,Don't Sweep On Us,L,0,Yes
+11/9/2025,7:45,PM,19:45:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Matthews Arena,Full Ice Broomball,8v8 Full Ice Broomball,Broom It We Ball,W,2,Oozma Kappa,L,0,No
+11/9/2025,8:00,PM,20:00:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Matthews Arena,Full Ice Broomball,8v8 Full Ice Broomball,sweepnweep,L,0,Pick 'N Choose,W,3,Yes
+11/9/2025,8:00,PM,20:00:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Matthews Arena,Ice Hockey,Open League,Dawgs,L,3,N Hurley,W,4,No
+11/11/2025,8:00,PM,20:00:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Matthews Arena,Full Ice Broomball,8v8 Full Ice Broomball,Cathletes,W,1,ELITE HEAT ON ICE,L,0,No
+11/11/2025,9:00,PM,21:00:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Matthews Arena,Full Ice Broomball,8v8 Full Ice Broomball,Broombros,L,0,Pick 'N Choose,W,3,No
+11/13/2025,6:00,PM,18:00:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Matthews Arena,Full Ice Broomball,8v8 Full Ice Broomball,Cathletes,L,1,Swiffer Sweepers,W,2,No
+11/13/2025,9:00,PM,21:00:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Matthews Arena,Full Ice Broomball,8v8 Full Ice Broomball,Pick 'N Choose,W,4,Broom It We Ball,L,1,No
+11/16/2025,9:00,PM,21:00:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Broomball A,Broomball,Tournament - 11.16 to 11.23,ELITE HEAT,W,4,C Xue,L,0,No
+11/16/2025,8:15,PM,20:15:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Broomball B,Broomball,Tournament - 11.16 to 11.23,Broombros,L,1,TÃ¼rks No Caicos,W,3,No
+11/16/2025,8:15,PM,20:15:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Broomball A,Broomball,Tournament - 11.16 to 11.23,M Clarke,L,1,ELITE HEAT,W,3,No
+11/16/2025,9:00,PM,21:00:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Broomball B,Broomball,Tournament - 11.16 to 11.23,Sweeping Beauties,L,0,TÃ¼rks No Caicos,W,1,No
+11/16/2025,5:15,PM,17:15:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Early,Matthews Arena,Ice Hockey,Tournament 11.16 to 11.23,K Azzaretto,L,0,Oozma Kappa,W,3,Yes
+11/16/2025,6:45,PM,18:45:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Broomball A,Broomball,Tournament - 11.16 to 11.23,Broom It We Ball,W,6,Swiffer Sweeper,L,1,No
+11/16/2025,7:30,PM,19:30:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Matthews Arena,Full Ice Broomball,8v8 Full Ice Broomball,Swiffer Sweepers,L,0,Pick 'N Choose,W,1,No
+11/16/2025,11:15,PM,23:15:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Matthews Arena,Ice Hockey,Tournament 11.16 to 11.23,J Mount,W,3,N Kefeyan,L,0,Yes
+11/16/2025,10:30,PM,22:30:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Broomball B,Broomball,Tournament - 11.16 to 11.23,Cathletes,L,1,Pick â€˜N Choose,W,2,No
+11/18/2025,10:30,PM,22:30:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Broomball A,Broomball,Tournament - 11.16 to 11.23,ELITE HEAT,L,0,Broom It We Ball,W,3,No
+11/18/2025,6:00,PM,18:00:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Matthews Arena,Ice Hockey,Tournament 11.16 to 11.23,A Poulin,W,5,J Mount,L,3,No
+11/18/2025,6:00,PM,18:00:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Broomball B,Broomball,Tournament - 11.16 to 11.23,TÃ¼rks No Caicos,L,1,Pick â€˜N Choose,W,7,No
+11/20/2025,9:45,PM,21:45:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Matthews Arena,Ice Hockey,Tournament 11.16 to 11.23,A Poulin,W,10,Oozma Kappa,L,0,No
+11/20/2025,6:45,PM,18:45:00,Matthews Arena,42.34120355,-71.08462035,Indoor,Late,Broomball A,Broomball,Tournament - 11.16 to 11.23,Broom It We Ball,L,1,Pick â€˜N Choose,W,2,No
